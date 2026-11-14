@@ -9,14 +9,13 @@
     Math.abs(place.lat) <= 90 && Math.abs(place.lon) <= 180);
   const find = selector => dialog.querySelector(selector);
   const art = root.querySelector('.experience-map-art');
-  const layer = root.querySelector('.experience-map-layer');
   const markers = root.querySelector('.experience-map-markers');
   const image = find('.experience-gallery-photo');
   const placeholder = find('.experience-gallery-placeholder');
   const previous = find('.experience-gallery-prev');
   const next = find('.experience-gallery-next');
   const close = find('.experience-gallery-close');
-  const countryIds = { JPN: '392', KOR: '410', TWN: '158', CHN: '156', CHE: '756', FRA: '250', GBR: '826', China: '156', Switzerland: '756', France: '250', 'United Kingdom': '826' };
+  const countryIds = { ITA: '380', ARE: '784', THA: '764', MYS: '458', JPN: '392', KOR: '410', TWN: '158', CHN: '156', CHE: '756', FRA: '250', GBR: '826', China: '156', Switzerland: '756', France: '250', 'United Kingdom': '826' };
   const placeLabel = place => [place.name, place.country].filter(Boolean).join(', ');
   let activePlace = null;
   let photos = [];
@@ -172,8 +171,8 @@
     const hadFocus = markers.contains(focused);
     const focusedIds = markerIds(focused);
     const { scale, tx, ty } = state;
-    layer.style.transform = `translate(${tx * 100}%, ${ty * 100}%) scale(${scale})`;
-    layer.style.setProperty('--map-zoom', String(scale));
+    art.style.transform = `translate(${tx * 100}%, ${ty * 100}%) scale(${scale})`;
+    art.style.setProperty('--map-zoom', String(scale));
     viewport.dataset.mapScale = String(scale);
     const width = viewport.clientWidth, height = viewport.clientHeight, groups = [];
     if (!width || !height) return;
@@ -204,7 +203,7 @@
       const ids = group.points.map(point => point.place.id).sort().join(' ');
       const marker = existing.get(ids) || document.createElement('button');
       marker.type = 'button'; marker.className = 'experience-map-marker'; marker.dataset.placeIds = ids;
-      marker.style.left = `${group.x * 100}%`; marker.style.top = `${group.y * 100}%`;
+      marker.style.left = `${group.sx * 100}%`; marker.style.top = `${group.sy * 100}%`;
       if (group.points.length === 1) {
         const place = group.points[0].place;
         marker.textContent = ''; marker.title = placeLabel(place);

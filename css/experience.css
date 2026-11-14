@@ -13,11 +13,12 @@
 .experience-map-viewport:focus-visible { outline: 3px solid #bb6a39; outline-offset: 3px; }
 .experience-map-layer { position: absolute; inset: 0; transform-origin: 0 0; --map-zoom: 1; }
 .experience-map-art, .experience-map-art svg, .experience-map-markers { width: 100%; height: 100%; }
+.experience-map-art { transform-origin: 0 0; pointer-events: none; }
 .experience-map-art svg { display: block; }
 .experience-map-art [data-country-code] { stroke-width: calc(.55px / var(--map-zoom)); }
 .experience-map-art [data-country-code].is-visited { fill: #a9cbd9; }
 .experience-map-markers { position: absolute; inset: 0; pointer-events: none; }
-.experience-map-marker { position: absolute; transform: translate(-50%, -50%) scale(calc(1 / var(--map-zoom))); width: 30px; height: 30px; padding: 0; border: 0; border-radius: 50%; background: transparent; color: #245c7a; cursor: pointer; pointer-events: auto; touch-action: none; }
+.experience-map-marker { position: absolute; transform: translate(-50%, -50%); width: 30px; height: 30px; padding: 0; border: 0; border-radius: 50%; background: transparent; color: #245c7a; cursor: pointer; pointer-events: auto; touch-action: none; }
 .experience-map-marker::before { content: ""; display: block; width: 9px; height: 9px; border: 2px solid #fff; border-radius: 50%; background: #316f91; box-shadow: 0 1px 5px #24486055; margin: auto; }
 .experience-map-marker:hover::before, .experience-map-marker:focus-visible::before { background: #a34836; transform: scale(1.35); }
 .experience-map-marker:focus-visible { z-index: 4; }

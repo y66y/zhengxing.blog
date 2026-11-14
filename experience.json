@@ -2,6 +2,233 @@
   "galleryLabel": "Scenic photographs · Wikimedia Commons",
   "places": [
     {
+      "id": "abu-dhabi",
+      "name": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "countryCode": "ARE",
+      "lat": 24.46666667,
+      "lon": 54.36666667,
+      "aliases": [
+        "阿布扎比",
+        "Abu Dhabi"
+      ],
+      "photos": [
+        {
+          "src": "assets/travel/abu-dhabi/01.jpg",
+          "alt": "Illuminated fountains with Sheikh Zayed Grand Mosque in the background, Abu Dhabi, United Arab Emirates",
+          "caption": "Illuminated fountains and Sheikh Zayed Grand Mosque",
+          "author": "giggel",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_-_View_of_Sheikh_Zayed_Mosque_at_night_-_%D9%86%D8%B8%D8%B1%D8%A7_%D9%84%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%B4%D9%8A%D8%AE_%D8%B2%D8%A7%D9%8A%D8%AF_%D9%81%D9%8A_%D8%A7%D9%84%D9%84%D9%8A%D9%84_-_panoramio_(3).jpg",
+          "title": "File:Abu Dhabi - View of Sheikh Zayed Mosque at night - نظرا لمسجد الشيخ زايد في الليل - panoramio (3).jpg"
+        },
+        {
+          "src": "assets/travel/abu-dhabi/02.jpg",
+          "alt": "Abu Dhabi city lights and waterfront seen from Marina Mall, United Arab Emirates",
+          "caption": "Abu Dhabi at night from Marina Mall",
+          "author": "patano",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_by_night_from_Marina_Mall_-_panoramio.jpg",
+          "title": "File:Abu Dhabi by night from Marina Mall - panoramio.jpg"
+        },
+        {
+          "src": "assets/travel/abu-dhabi/03.jpg",
+          "alt": "Corniche Beach and the Abu Dhabi waterfront, United Arab Emirates",
+          "caption": "Corniche Beach and Abu Dhabi waterfront",
+          "author": "Guilhem Vellut from Annecy, France",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beach_@_Corniche_@_Abu_Dhabi_(15421876734).jpg",
+          "title": "File:Beach @ Corniche @ Abu Dhabi (15421876734).jpg"
+        },
+        {
+          "src": "assets/travel/abu-dhabi/04.jpg",
+          "alt": "Gardens at Qasr Al Watan, Abu Dhabi, United Arab Emirates",
+          "caption": "Gardens at Qasr Al Watan",
+          "author": "Renek78",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qasr_Al_Watan_in_March_2022_10.jpg",
+          "title": "File:Qasr Al Watan in March 2022 10.jpg"
+        },
+        {
+          "src": "assets/travel/abu-dhabi/05.jpg",
+          "alt": "Beneath the dome of Louvre Abu Dhabi, Abu Dhabi, United Arab Emirates",
+          "caption": "Beneath the dome of Louvre Abu Dhabi",
+          "author": "Francesco Bini",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Louvre_abu_dhabi,_interno,_cortile_coperto_01.jpg",
+          "title": "File:Louvre abu dhabi, interno, cortile coperto 01.jpg"
+        },
+        {
+          "src": "assets/travel/abu-dhabi/06.jpg",
+          "alt": "Emirates Palace, Abu Dhabi, United Arab Emirates",
+          "caption": "Emirates Palace",
+          "author": "Chris Down",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emirates_Palace.jpg",
+          "title": "File:Emirates Palace.jpg"
+        },
+        {
+          "src": "assets/travel/abu-dhabi/07.jpg",
+          "alt": "Palm-lined gardens at Qasr Al Watan, Abu Dhabi, United Arab Emirates",
+          "caption": "Palm-lined gardens at Qasr Al Watan",
+          "author": "EditQ",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qasr_Al_Watan_13.jpg",
+          "title": "File:Qasr Al Watan 13.jpg"
+        },
+        {
+          "src": "assets/travel/abu-dhabi/08.jpg",
+          "alt": "Qasr Al Hosn, Abu Dhabi, United Arab Emirates",
+          "caption": "Qasr Al Hosn",
+          "author": "Radosław Botev",
+          "license": "CC BY 3.0 pl",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qasr_al-Hosn_(1).jpg",
+          "title": "File:Qasr al-Hosn (1).jpg"
+        },
+        {
+          "src": "assets/travel/abu-dhabi/09.jpg",
+          "alt": "The skyline and Etihad Towers, Abu Dhabi, United Arab Emirates",
+          "caption": "The skyline and Etihad Towers",
+          "author": "Kimmyuandooo",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyline_Abu_Dhabi.jpg",
+          "title": "File:Skyline Abu Dhabi.jpg"
+        },
+        {
+          "src": "assets/travel/abu-dhabi/10.jpg",
+          "alt": "Eastern Mangroves from Al Gurm Corniche, Abu Dhabi, United Arab Emirates",
+          "caption": "Eastern Mangroves from Al Gurm Corniche",
+          "author": "Surya Prakash Gajagouni",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Mangroves,_Al_Gurm_Corniche.jpg",
+          "title": "File:Abu Dhabi Mangroves, Al Gurm Corniche.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bangkok",
+      "name": "Bangkok",
+      "country": "Thailand",
+      "countryCode": "THA",
+      "lat": 13.7525,
+      "lon": 100.49417,
+      "aliases": [
+        "曼谷"
+      ],
+      "photos": [
+        {
+          "src": "assets/travel/bangkok/01.jpg",
+          "alt": "Grand Palace in Bangkok, Thailand",
+          "caption": "Grand Palace",
+          "author": "Diego Delso",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gran_Palacio,_Bangkok,_Tailandia,_2013-08-22,_DD_69.jpg",
+          "title": "File:Gran Palacio, Bangkok, Tailandia, 2013-08-22, DD 69.jpg"
+        },
+        {
+          "src": "assets/travel/bangkok/02.jpg",
+          "alt": "Wat Arun in Bangkok, Thailand",
+          "caption": "Wat Arun",
+          "author": "Rolf Heinrich, Köln",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wat_Arun_03-2012-01.JPG",
+          "title": "File:Wat Arun 03-2012-01.JPG"
+        },
+        {
+          "src": "assets/travel/bangkok/03.jpg",
+          "alt": "Wat Pho in Bangkok, Thailand",
+          "caption": "Wat Pho",
+          "author": "Diego Delso",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wat_Pho,_Bangkok,_Tailandia,_2013-08-22,_DD_37.jpg",
+          "title": "File:Wat Pho, Bangkok, Tailandia, 2013-08-22, DD 37.jpg"
+        },
+        {
+          "src": "assets/travel/bangkok/04.jpg",
+          "alt": "Chao Phraya River in Bangkok, Thailand",
+          "caption": "Chao Phraya River",
+          "author": "Wolfgang Weber",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nightshot_At_The_Chao_Phraya_River_(221664677).jpeg",
+          "title": "File:Nightshot At The Chao Phraya River (221664677).jpeg"
+        },
+        {
+          "src": "assets/travel/bangkok/05.jpg",
+          "alt": "Lumphini Park in Bangkok, Thailand",
+          "caption": "Lumphini Park",
+          "author": "Terence Ong",
+          "license": "CC BY 2.5",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lumphini_Park.jpg",
+          "title": "File:Aerial view of Lumphini Park.jpg"
+        },
+        {
+          "src": "assets/travel/bangkok/06.jpg",
+          "alt": "Giant Swing and Wat Suthat in Bangkok, Thailand",
+          "caption": "Giant Swing and Wat Suthat",
+          "author": "Namneverdry",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_Swing_and_Wat_Suthat.jpg",
+          "title": "File:Giant Swing and Wat Suthat.jpg"
+        },
+        {
+          "src": "assets/travel/bangkok/07.jpg",
+          "alt": "Wat Saket and the Golden Mount in Bangkok, Thailand",
+          "caption": "Wat Saket and the Golden Mount",
+          "author": "Vyacheslav Argenberg",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wat_Saket,_Golden_Mount,_Bangkok,_Thailand.jpg",
+          "title": "File:Wat Saket, Golden Mount, Bangkok, Thailand.jpg"
+        },
+        {
+          "src": "assets/travel/bangkok/08.jpg",
+          "alt": "Yaowarat Road in Chinatown in Bangkok, Thailand",
+          "caption": "Yaowarat Road in Chinatown",
+          "author": "Ninara from Helsinki, Finland",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yaowarat_at_night_(32455695783).jpg",
+          "title": "File:Yaowarat at night (32455695783).jpg"
+        },
+        {
+          "src": "assets/travel/bangkok/09.jpg",
+          "alt": "Night view of Benjakitti Park and the Bangkok skyline in Thailand",
+          "caption": "Benjakitti Park and the Bangkok skyline",
+          "author": "OPK-Photography",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangkok,_Thailand,_Benjakitti_Park,_2024.jpg",
+          "title": "File:Bangkok, Thailand, Benjakitti Park, 2024.jpg"
+        },
+        {
+          "src": "assets/travel/bangkok/10.jpg",
+          "alt": "Rama VIII Bridge in Bangkok, Thailand",
+          "caption": "Rama VIII Bridge",
+          "author": "Dominic Nelson",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangkok_-_Rama_VIII_Bridge_at_sunrise_Jan_2024.jpg",
+          "title": "File:Bangkok - Rama VIII Bridge at sunrise Jan 2024.jpg"
+        }
+      ]
+    },
+    {
       "id": "beijing",
       "name": "Beijing",
       "country": "China",
@@ -112,6 +339,121 @@
       ],
       "aliases": [
         "北京"
+      ]
+    },
+    {
+      "id": "bole",
+      "name": "Bole",
+      "country": "China",
+      "countryCode": "CHN",
+      "lat": 44.8539,
+      "lon": 82.0514,
+      "aliases": [
+        "博乐市",
+        "博乐",
+        "Bortala"
+      ],
+      "photos": [
+        {
+          "src": "assets/travel/bole/01.jpg",
+          "alt": "Bole railway station plaza, Bole, Xinjiang, China",
+          "caption": "Bole railway station plaza",
+          "author": "Yangxu76758564",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bortala_Railway_Station_Plaza.jpg",
+          "title": "File:Bortala Railway Station Plaza.jpg"
+        },
+        {
+          "src": "assets/travel/bole/02.jpg",
+          "alt": "Bole East railway station, then named Bole, in 2006, Xinjiang, China",
+          "caption": "Bole East railway station in 2006",
+          "author": "Yaohua2000",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bole_railway_station_603.jpg",
+          "title": "File:Bole railway station 603.jpg"
+        },
+        {
+          "src": "assets/travel/bole/03.jpg",
+          "alt": "Sayram Lake: northern shore, Bole, Xinjiang, China",
+          "caption": "Sayram Lake: northern shore",
+          "author": "Y Chen",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sayram_Lake_on_north_bank.jpg",
+          "title": "File:Sayram Lake on north bank.jpg"
+        },
+        {
+          "src": "assets/travel/bole/04.jpg",
+          "alt": "Sayram Lake scenery, Bole, Xinjiang, China",
+          "caption": "Sayram Lake scenery",
+          "author": "Fumikas Sagisavas",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sayram_Lake_scenery.jpg",
+          "title": "File:Sayram Lake scenery.jpg"
+        },
+        {
+          "src": "assets/travel/bole/05.jpg",
+          "alt": "The shores of Sayram Lake, Bole, Xinjiang, China",
+          "caption": "The shores of Sayram Lake",
+          "author": "Fumikas Sagisavas",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_shore_of_Sayram_Lake.jpg",
+          "title": "File:The shore of Sayram Lake.jpg"
+        },
+        {
+          "src": "assets/travel/bole/06.jpg",
+          "alt": "Lighthouse beside Sayram Lake, Bole, Xinjiang, China",
+          "caption": "Lighthouse beside Sayram Lake",
+          "author": "Fumikas Sagisavas",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lighthouse_on_the_shore_of_Sayram_Lake.jpg",
+          "title": "File:Lighthouse on the shore of Sayram Lake.jpg"
+        },
+        {
+          "src": "assets/travel/bole/07.jpg",
+          "alt": "Meadows beside Sayram Lake, Bole, Xinjiang, China",
+          "caption": "Meadows beside Sayram Lake",
+          "author": "George Lu",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_Sailimu,_aka_Sayram.jpg",
+          "title": "File:Lake Sailimu, aka Sayram.jpg"
+        },
+        {
+          "src": "assets/travel/bole/08.jpg",
+          "alt": "Morning light over Sayram Lake, Bole, Xinjiang, China",
+          "caption": "Morning light over Sayram Lake",
+          "author": "George Lu",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morning_sunshine_3_-_Lake_Sailimu,_aka_Sayram.jpg",
+          "title": "File:Morning sunshine 3 - Lake Sailimu, aka Sayram.jpg"
+        },
+        {
+          "src": "assets/travel/bole/09.jpg",
+          "alt": "Wildflowers beside Sayram Lake, Bole, Xinjiang, China",
+          "caption": "Wildflowers beside Sayram Lake",
+          "author": "George Lu",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flowers_arround_Lake_Sailimu,_aka_Sayram_-_Flickr_-_George_Lu.jpg",
+          "title": "File:Flowers arround Lake Sailimu, aka Sayram - Flickr - George Lu.jpg"
+        },
+        {
+          "src": "assets/travel/bole/10.jpg",
+          "alt": "Sayram Lake mountain panorama, Bole, Xinjiang, China",
+          "caption": "Sayram Lake mountain panorama",
+          "author": "lwtt93 from Shanghai, China",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xinjiang_DSC_9301_(5303314254).jpg",
+          "title": "File:Xinjiang DSC 9301 (5303314254).jpg"
+        }
       ]
     },
     {
@@ -1023,6 +1365,236 @@
       ]
     },
     {
+      "id": "dubai",
+      "name": "Dubai",
+      "country": "United Arab Emirates",
+      "countryCode": "ARE",
+      "lat": 25.252222,
+      "lon": 55.28,
+      "aliases": [
+        "迪拜",
+        "دبي"
+      ],
+      "photos": [
+        {
+          "alt": "Burj Khalifa, Dubai",
+          "caption": "Burj Khalifa",
+          "author": "Tim Reckmann from Hamm, Deutschland",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubai_Skyline_mit_Burj_Khalifa_(18241030269).jpg",
+          "title": "File:Dubai Skyline mit Burj Khalifa (18241030269).jpg",
+          "src": "assets/travel/dubai/01.jpg"
+        },
+        {
+          "alt": "The Dubai Fountain, Dubai",
+          "caption": "The Dubai Fountain",
+          "author": "Donaldytong",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:(UAE)_The_Dubai_Fountain_at_Dusk_02.jpg",
+          "title": "File:(UAE) The Dubai Fountain at Dusk 02.jpg",
+          "src": "assets/travel/dubai/02.jpg"
+        },
+        {
+          "alt": "Dubai Creek, Dubai",
+          "caption": "Dubai Creek",
+          "author": "Edgar El",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubai_-_Traditional_boats_-_Abra_-_on_the_Dubai_Creek_-_%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%B1%D8%A8_%D8%A7%D9%84%D8%AA%D9%82%D9%84%D9%8A%D8%AF%D9%8A%D8%A9_-_%D8%A7%D9%84%D8%B9%D8%A8%D8%B1%D8%A9_-_%D8%B9%D9%84%D9%89_%D8%AE%D9%88%D8%B1_%D8%AF%D8%A8%D9%8A_-_panoramio.jpg",
+          "title": "File:Dubai - Traditional boats - Abra - on the Dubai Creek - القوارب التقليدية - العبرة - على خور دبي - panoramio.jpg",
+          "src": "assets/travel/dubai/03.jpg"
+        },
+        {
+          "alt": "Dubai Marina, Dubai",
+          "caption": "Dubai Marina",
+          "author": "Francisco Anzola",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubai_Marina_(222830069).jpeg",
+          "title": "File:Dubai Marina (222830069).jpeg",
+          "src": "assets/travel/dubai/04.jpg"
+        },
+        {
+          "alt": "Burj Al Arab viewed across Madinat Jumeirah, Dubai",
+          "caption": "Burj Al Arab from Madinat Jumeirah",
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Madinat_Jumeirah-Dubai3303.JPG",
+          "title": "File:Madinat Jumeirah-Dubai3303.JPG",
+          "src": "assets/travel/dubai/05.jpg"
+        },
+        {
+          "alt": "The gold Dubai Frame in Zabeel Park, viewed from Burj Khalifa, Dubai",
+          "caption": "Dubai Frame from Burj Khalifa",
+          "author": "Rennboot",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:190410_Dubai_Frame.jpg",
+          "title": "File:190410 Dubai Frame.jpg",
+          "src": "assets/travel/dubai/06.jpg"
+        },
+        {
+          "alt": "Al Fahidi Historical Neighbourhood, Dubai",
+          "caption": "Al Fahidi Historical Neighbourhood",
+          "author": "Diego Delso",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camello_y_campamento,_Al_Bastakiya,_Dubai,_2009-11-23,_DD_8878.jpg",
+          "title": "File:Camello y campamento, Al Bastakiya, Dubai, 2009-11-23, DD 8878.jpg",
+          "src": "assets/travel/dubai/07.jpg"
+        },
+        {
+          "alt": "Jumeirah Mosque, Dubai",
+          "caption": "Jumeirah Mosque",
+          "author": "Jayesh Naithani",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jumeirah_Mosque_-_panoramio_(1).jpg",
+          "title": "File:Jumeirah Mosque - panoramio (1).jpg",
+          "src": "assets/travel/dubai/08.jpg"
+        },
+        {
+          "alt": "Palm Jumeirah, Dubai",
+          "caption": "Palm Jumeirah",
+          "author": "Aheilner",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palm_jumeirah_core.jpg",
+          "title": "File:Palm jumeirah core.jpg",
+          "src": "assets/travel/dubai/09.jpg"
+        },
+        {
+          "alt": "Dubai Desert Conservation Reserve, Dubai",
+          "caption": "Dubai Desert Conservation Reserve",
+          "author": "Lintophilip",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dramatic_dunes.jpg",
+          "title": "File:Dramatic dunes.jpg",
+          "src": "assets/travel/dubai/10.jpg"
+        }
+      ]
+    },
+    {
+      "id": "first",
+      "name": "First (Grindelwald)",
+      "country": "Switzerland",
+      "countryCode": "CHE",
+      "lat": 46.66055556,
+      "lon": 8.05361111,
+      "aliases": [
+        "First山",
+        "菲斯特山",
+        "First",
+        "Grindelwald First"
+      ],
+      "photos": [
+        {
+          "src": "assets/travel/first/01.jpg",
+          "alt": "First Cliff Walk, Grindelwald, Switzerland",
+          "caption": "First Cliff Walk",
+          "author": "Blanky75",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:First_Cliff_Walk.jpg",
+          "title": "File:First Cliff Walk.jpg"
+        },
+        {
+          "src": "assets/travel/first/02.jpg",
+          "alt": "First Cliff Walk in winter, Grindelwald, Switzerland",
+          "caption": "First Cliff Walk in winter",
+          "author": "Paradise Chronicle",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cliff_walk_auf_Grindelwald_First_im_Winter.jpg",
+          "title": "File:Cliff walk auf Grindelwald First im Winter.jpg"
+        },
+        {
+          "src": "assets/travel/first/03.jpg",
+          "alt": "View toward the Eiger from First Cliff Walk, Grindelwald, Switzerland",
+          "caption": "View toward the Eiger from First Cliff Walk",
+          "author": "Freddy Amend",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cliff-Walk_First_Grindelwald._Sicht_auf_den_Eiger.jpg",
+          "title": "File:Cliff-Walk First Grindelwald. Sicht auf den Eiger.jpg"
+        },
+        {
+          "src": "assets/travel/first/04.jpg",
+          "alt": "Grindelwald valley from First, Grindelwald, Switzerland",
+          "caption": "Grindelwald valley from First",
+          "author": "Bob Tan",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grindelwald_as_seen_from_the_First_cable_car_station_100622.jpg",
+          "title": "File:Grindelwald as seen from the First cable car station 100622.jpg"
+        },
+        {
+          "src": "assets/travel/first/05.jpg",
+          "alt": "The gondola route to First, Grindelwald, Switzerland",
+          "caption": "The gondola route to First",
+          "author": "W. Bulach",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_4498_Gondelbahn_Grindelwald_-_First.jpg",
+          "title": "File:00 4498 Gondelbahn Grindelwald - First.jpg"
+        },
+        {
+          "src": "assets/travel/first/06.jpg",
+          "alt": "Mountain scenery at First, Grindelwald, Switzerland",
+          "caption": "Mountain scenery at First",
+          "author": "W. Bulach",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:00_3121._Grindelwald-First_(Schweiz).jpg",
+          "title": "File:00 3121. Grindelwald-First (Schweiz).jpg"
+        },
+        {
+          "src": "assets/travel/first/07.jpg",
+          "alt": "Early snow on the mountains near First, Grindelwald, Switzerland",
+          "caption": "Early snow near First",
+          "author": "Markus Keuter",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eiger-Jungfrau_(4042663020).jpg",
+          "title": "File:Eiger-Jungfrau (4042663020).jpg"
+        },
+        {
+          "src": "assets/travel/first/08.jpg",
+          "alt": "Bachalpsee in summer, Grindelwald, Switzerland",
+          "caption": "Bachalpsee in summer",
+          "author": "Johnw",
+          "license": "Public domain",
+          "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bachalpsee_summer.jpg",
+          "title": "File:Bachalpsee summer.jpg"
+        },
+        {
+          "src": "assets/travel/first/09.jpg",
+          "alt": "Alpine reflections in Bachalpsee, Grindelwald, Switzerland",
+          "caption": "Alpine reflections in Bachalpsee",
+          "author": "Sabrina Schreiber",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bachalpsee_Reflecting_the_Alps.jpg",
+          "title": "File:Bachalpsee Reflecting the Alps.jpg"
+        },
+        {
+          "src": "assets/travel/first/10.jpg",
+          "alt": "Trail to Bachalpsee near First, Grindelwald, Switzerland",
+          "caption": "Trail to Bachalpsee near First",
+          "author": "VishnuVaratharajan",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trail_to_Bachalpsee,_Bernese_Oberland,_Switzerland.jpg",
+          "title": "File:Trail to Bachalpsee, Bernese Oberland, Switzerland.jpg"
+        }
+      ]
+    },
+    {
       "id": "foshan",
       "name": "Foshan",
       "country": "China",
@@ -1700,6 +2272,348 @@
         "茵特拉根",
         "因特拉肯"
       ]
+    },
+    {
+      "id": "kaohsiung",
+      "name": "Kaohsiung",
+      "country": "Taiwan",
+      "countryCode": "TWN",
+      "lat": 22.615,
+      "lon": 120.2975,
+      "aliases": [
+        "高雄",
+        "Kaohsiung City"
+      ],
+      "photos": [
+        {
+          "alt": "Dragon and Tiger Pagodas, Kaohsiung",
+          "caption": "Dragon and Tiger Pagodas",
+          "author": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dragon_and_Tiger_Pagodas_02.jpg",
+          "title": "File:Dragon and Tiger Pagodas 02.jpg",
+          "src": "assets/travel/kaohsiung/01.jpg"
+        },
+        {
+          "alt": "Love River, Kaohsiung",
+          "caption": "Love River",
+          "author": "Benjiho",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaohsiung_Love_River_IMG_2923.JPG",
+          "title": "File:Kaohsiung Love River IMG 2923.JPG",
+          "src": "assets/travel/kaohsiung/02.jpg"
+        },
+        {
+          "alt": "Pier-2 Art Center, Kaohsiung",
+          "caption": "Pier-2 Art Center",
+          "author": "Anav Rin from Gushan, Kaohsiung, Taipei",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pier-2_Art_Center.jpg",
+          "title": "File:Pier-2 Art Center.jpg",
+          "src": "assets/travel/kaohsiung/03.jpg"
+        },
+        {
+          "alt": "Kaohsiung skyline, Kaohsiung",
+          "caption": "Kaohsiung skyline",
+          "author": "Nandaro",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:85_Sky_Tower_from_Kaohsiung_Martyrs%27_Shrine.jpg",
+          "title": "File:85 Sky Tower from Kaohsiung Martyrs' Shrine.jpg",
+          "src": "assets/travel/kaohsiung/04.jpg"
+        },
+        {
+          "alt": "Cijin Lighthouse, Kaohsiung",
+          "caption": "Cijin Lighthouse",
+          "author": "CEphoto, Uwe Aranas",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaohsiung_Taiwan_Kaohsiung-Lighthouse-01.jpg",
+          "title": "File:Kaohsiung Taiwan Kaohsiung-Lighthouse-01.jpg",
+          "src": "assets/travel/kaohsiung/05.jpg"
+        },
+        {
+          "alt": "Cijin Beach, Kaohsiung",
+          "caption": "Cijin Beach",
+          "author": "ironypoisoning",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cijin_Beach_20150725.jpg",
+          "title": "File:Cijin Beach 20150725.jpg",
+          "src": "assets/travel/kaohsiung/06.jpg"
+        },
+        {
+          "alt": "Fo Guang Shan Buddha Museum, Kaohsiung",
+          "caption": "Fo Guang Shan Buddha Museum",
+          "author": "Huicheng1967",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fo_Guang_Shan_Buddha_Museum_%E4%BD%9B%E5%85%89%E5%B1%B1%E4%BD%9B%E9%99%80%E7%B4%80%E5%BF%B5%E9%A4%A8_.jpg",
+          "title": "File:Fo Guang Shan Buddha Museum 佛光山佛陀紀念館 .jpg",
+          "src": "assets/travel/kaohsiung/07.jpg"
+        },
+        {
+          "alt": "National Kaohsiung Center for the Arts, Kaohsiung",
+          "caption": "National Kaohsiung Center for the Arts",
+          "author": "Jimmy3357569",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Kaohsiung_Center_for_the_Arts.JPG",
+          "title": "File:National Kaohsiung Center for the Arts.JPG",
+          "src": "assets/travel/kaohsiung/08.jpg"
+        },
+        {
+          "alt": "Kaohsiung Music Center, Kaohsiung",
+          "caption": "Kaohsiung Music Center",
+          "author": "Tiouraren (Y.-C. Tsai)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg",
+          "title": "File:Kaohsiung Music Center and Great Tiger Bridge during 2022 Taiwan Lantern Festival.jpg",
+          "src": "assets/travel/kaohsiung/09.jpg"
+        },
+        {
+          "alt": "Sizihwan Bay, Kaohsiung",
+          "caption": "Sizihwan Bay",
+          "author": "Pilzland",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sizihwan_sunset_1.JPG",
+          "title": "File:Sizihwan sunset 1.JPG",
+          "src": "assets/travel/kaohsiung/10.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kuala-lumpur",
+      "name": "Kuala Lumpur",
+      "country": "Malaysia",
+      "countryCode": "MYS",
+      "lat": 3.139,
+      "lon": 101.6869,
+      "aliases": [
+        "吉隆坡",
+        "KL"
+      ],
+      "photos": [
+        {
+          "alt": "Petronas Twin Towers, Kuala Lumpur",
+          "caption": "Petronas Twin Towers",
+          "author": "James Kerwin from Tbilisi",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg",
+          "title": "File:The Twins SE Asia 2019 (49171985716).jpg",
+          "src": "assets/travel/kuala-lumpur/01.jpg"
+        },
+        {
+          "alt": "Sultan Abdul Samad Building, Kuala Lumpur",
+          "caption": "Sultan Abdul Samad Building",
+          "author": "Marcin Konsek",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Budynek_Su%C5%82tana_Abdula_Samada_(01).jpg",
+          "title": "File:2016 Kuala Lumpur, Budynek Sułtana Abdula Samada (01).jpg",
+          "src": "assets/travel/kuala-lumpur/02.jpg"
+        },
+        {
+          "alt": "Kuala Lumpur Tower, Kuala Lumpur",
+          "caption": "Kuala Lumpur Tower",
+          "author": "Admiralhirohito",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_Tower_taken_from_the_Ampang_Elevated_Highway.jpg",
+          "title": "File:Kuala Lumpur Tower taken from the Ampang Elevated Highway.jpg",
+          "src": "assets/travel/kuala-lumpur/03.jpg"
+        },
+        {
+          "alt": "Thean Hou Temple, Kuala Lumpur",
+          "caption": "Thean Hou Temple",
+          "author": "Alexey Komarov",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thean_Hou_Temple,_Kuala_Lumpur-3.jpg",
+          "title": "File:Thean Hou Temple, Kuala Lumpur-3.jpg",
+          "src": "assets/travel/kuala-lumpur/04.jpg"
+        },
+        {
+          "alt": "Jamek Mosque, Kuala Lumpur",
+          "caption": "Jamek Mosque",
+          "author": "Wiki Farazi",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masjid_Jamek,_Kuala_Lumpur_20231114_114015.jpg",
+          "title": "File:Masjid Jamek, Kuala Lumpur 20231114 114015.jpg",
+          "src": "assets/travel/kuala-lumpur/05.jpg"
+        },
+        {
+          "alt": "Perdana Botanical Gardens, Kuala Lumpur",
+          "caption": "Perdana Botanical Gardens",
+          "author": "Renek78",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunken_Garde,_Perdana_Botanical_Gardens_in_May_2020.jpg",
+          "title": "File:Sunken Garde, Perdana Botanical Gardens in May 2020.jpg",
+          "src": "assets/travel/kuala-lumpur/06.jpg"
+        },
+        {
+          "alt": "Petaling Street, Kuala Lumpur",
+          "caption": "Petaling Street",
+          "author": "IQRemix",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Petaling_Street,_Kuala_Lumpur_01.jpg",
+          "title": "File:Petaling Street, Kuala Lumpur 01.jpg",
+          "src": "assets/travel/kuala-lumpur/07.jpg"
+        },
+        {
+          "alt": "National Mosque of Malaysia, Kuala Lumpur",
+          "caption": "National Mosque of Malaysia",
+          "author": "Khalzuri",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Malaysia_-_Kuala_Lumpur_National_Mosque_1.JPG",
+          "title": "File:Malaysia - Kuala Lumpur National Mosque 1.JPG",
+          "src": "assets/travel/kuala-lumpur/08.jpg"
+        },
+        {
+          "alt": "Titiwangsa Lake Gardens, Kuala Lumpur",
+          "caption": "Titiwangsa Lake Gardens",
+          "author": "Damian Almua from Argentina",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_from_titiwangsa_lake_(27318030261).jpg",
+          "title": "File:Kuala Lumpur from titiwangsa lake (27318030261).jpg",
+          "src": "assets/travel/kuala-lumpur/09.jpg"
+        },
+        {
+          "alt": "Murugan statue and colorful temple steps at Batu Caves, Gombak, Selangor, near Kuala Lumpur",
+          "caption": "Batu Caves, near Kuala Lumpur",
+          "author": "Chainwit.",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Batu_Caves_stairs_2022-05.jpg",
+          "title": "File:Batu Caves stairs 2022-05.jpg",
+          "src": "assets/travel/kuala-lumpur/10.jpg"
+        }
+      ]
+    },
+    {
+      "id": "kuitun",
+      "name": "Kuitun",
+      "country": "China",
+      "countryCode": "CHN",
+      "lat": 44.4264,
+      "lon": 84.9032,
+      "photos": [
+        {
+          "src": "assets/travel/kuitun/01.jpg",
+          "alt": "Kuitun Railway Station",
+          "caption": "Kuitun Railway Station",
+          "author": "Charlie Qi",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuytun_Railway_Station_2021.jpg",
+          "title": "File:Kuytun Railway Station 2021.jpg"
+        },
+        {
+          "src": "assets/travel/kuitun/02.jpg",
+          "alt": "Oilworkers’ Club, Dushanzi, near Kuitun",
+          "caption": "Oilworkers’ Club, Dushanzi, near Kuitun",
+          "author": "HaziiDozen",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%8B%AC%E5%B1%B1%E5%AD%90%E7%9F%B3%E6%B2%B9%E5%B7%A5%E4%BA%BA%E4%BF%B1%E4%B9%90%E9%83%A8%EF%BC%88%E7%8B%AC%E5%B1%B1%E5%AD%90%E5%8C%BA%E5%B1%95%E8%A7%88%EF%BC%88%E5%8D%9A%E7%89%A9%EF%BC%89%E9%A6%86%EF%BC%8C%E8%A5%BF%E4%BE%A7%EF%BC%89.jpg",
+          "title": "File:独山子石油工人俱乐部（独山子区展览（博物）馆，西侧）.jpg"
+        },
+        {
+          "src": "assets/travel/kuitun/03.jpg",
+          "alt": "Oilworkers’ Club east wing, Dushanzi, near Kuitun",
+          "caption": "Oilworkers’ Club east wing, Dushanzi, near Kuitun",
+          "author": "HaziiDozen",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%8B%AC%E5%B1%B1%E5%AD%90%E7%9F%B3%E6%B2%B9%E5%B7%A5%E4%BA%BA%E4%BF%B1%E4%B9%90%E9%83%A8%EF%BC%88%E7%8B%AC%E5%B1%B1%E5%AD%90%E5%8C%BA%E5%B1%95%E8%A7%88%EF%BC%88%E5%8D%9A%E7%89%A9%EF%BC%89%E9%A6%86%EF%BC%8C%E4%B8%9C%E4%BE%A7%EF%BC%89.jpg",
+          "title": "File:独山子石油工人俱乐部（独山子区展览（博物）馆，东侧）.jpg"
+        },
+        {
+          "src": "assets/travel/kuitun/04.jpg",
+          "alt": "Historic distillation site, Dushanzi, near Kuitun",
+          "caption": "Historic distillation site, Dushanzi, near Kuitun",
+          "author": "HaziiDozen",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%8B%AC%E5%B1%B1%E5%AD%90%E7%AC%AC%E4%B8%80%E5%A5%97%E8%92%B8%E9%A6%8F%E9%87%9C%E9%81%97%E5%9D%80.jpg",
+          "title": "File:独山子第一套蒸馏釜遗址.jpg"
+        },
+        {
+          "src": "assets/travel/kuitun/05.jpg",
+          "alt": "Historic oil-company school, Dushanzi, near Kuitun",
+          "caption": "Historic oil-company school, Dushanzi, near Kuitun",
+          "author": "HaziiDozen",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8B%8F%E7%9F%B3%E6%B2%B9%E8%82%A1%E4%BB%BD%E5%85%AC%E5%8F%B8%E7%8B%AC%E5%B1%B1%E5%AD%90%E8%81%8C%E5%B7%A5%E5%AD%90%E5%BC%9F%E5%AD%A6%E6%A0%A1%E6%97%A7%E5%9D%80.jpg",
+          "title": "File:中苏石油股份公司独山子职工子弟学校旧址.jpg"
+        },
+        {
+          "src": "assets/travel/kuitun/06.jpg",
+          "alt": "Start of Duku Road, Dushanzi, near Kuitun",
+          "caption": "Start of Duku Road, Dushanzi, near Kuitun",
+          "author": "User:CatOnMars",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Start_of_Duku_Road.jpg",
+          "title": "File:Start of Duku Road.jpg"
+        },
+        {
+          "src": "assets/travel/kuitun/07.jpg",
+          "alt": "Xinjiang’s first oil well, Dushanzi, near Kuitun",
+          "caption": "Xinjiang’s first oil well, Dushanzi, near Kuitun",
+          "author": "HaziiDozen",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%96%B0%E7%96%86%E7%AC%AC%E4%B8%80%E5%8F%A3%E6%B2%B9%E4%BA%95.jpg",
+          "title": "File:新疆第一口油井.jpg"
+        },
+        {
+          "src": "assets/travel/kuitun/08.jpg",
+          "alt": "Duku Road Museum, Dushanzi, near Kuitun",
+          "caption": "Duku Road Museum, Dushanzi, near Kuitun",
+          "author": "HaziiDozen",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%8B%AC%E5%BA%93%E5%85%AC%E8%B7%AF%E5%8D%9A%E7%89%A9%E9%A6%86%E5%A4%A7%E9%97%A8.jpg",
+          "title": "File:独库公路博物馆大门.jpg"
+        },
+        {
+          "src": "assets/travel/kuitun/09.jpg",
+          "alt": "Historic Sino-Soviet Oil Company office, Dushanzi, near Kuitun",
+          "caption": "Historic Sino-Soviet Oil Company office, Dushanzi, near Kuitun",
+          "author": "HaziiDozen",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8B%8F%E7%9F%B3%E6%B2%B9%E8%82%A1%E4%BB%BD%E5%85%AC%E5%8F%B8%E5%8A%9E%E5%85%AC%E6%97%A7%E5%9D%80.jpg",
+          "title": "File:中苏石油股份公司办公旧址.jpg"
+        },
+        {
+          "src": "assets/travel/kuitun/10.jpg",
+          "alt": "Ribbed canyon walls, a suspension bridge and walking paths at Dushanzi Grand Canyon near Kuitun",
+          "caption": "Dushanzi Grand Canyon near Kuitun",
+          "author": "QuantFoto",
+          "license": "CC BY-NC-ND 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "sourceUrl": "https://www.flickr.com/photos/thomasyung_cn/54709090141/",
+          "title": "独山子大峡谷（DuShanZi Grand Canyon）"
+        }
+      ],
+      "aliases": [
+        "奎屯"
+      ],
+      "galleryLabel": "Scenic photographs · Wikimedia Commons & Flickr"
     },
     {
       "id": "kunming",
@@ -2612,6 +3526,120 @@
       ]
     },
     {
+      "id": "milan",
+      "name": "Milan",
+      "country": "Italy",
+      "countryCode": "ITA",
+      "lat": 45.46694,
+      "lon": 9.19,
+      "aliases": [
+        "米兰",
+        "Milano"
+      ],
+      "photos": [
+        {
+          "src": "assets/travel/milan/01.jpg",
+          "alt": "Milan Cathedral in Milan, Italy",
+          "caption": "Milan Cathedral",
+          "author": "Julian Lupyan",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Milan_Cathedral,_Fa%C3%A7ade,_2025.jpg",
+          "title": "File:Milan Cathedral, Façade, 2025.jpg"
+        },
+        {
+          "src": "assets/travel/milan/02.jpg",
+          "alt": "Galleria Vittorio Emanuele II in Milan, Italy",
+          "caption": "Galleria Vittorio Emanuele II",
+          "author": "Steffen Schmitz",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Milano,_Galleria_Vittorio_Emanuele_II,_2016-06_CN-02.jpg",
+          "title": "File:Milano, Galleria Vittorio Emanuele II, 2016-06 CN-02.jpg"
+        },
+        {
+          "src": "assets/travel/milan/03.jpg",
+          "alt": "Sforza Castle in Milan, Italy",
+          "caption": "Sforza Castle",
+          "author": "Fred Romero",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sforza_Castle_(Castello_Sforzesco)_Milan_high_quality_exterior_view.jpg",
+          "title": "File:Sforza Castle (Castello Sforzesco) Milan high quality exterior view.jpg"
+        },
+        {
+          "src": "assets/travel/milan/04.jpg",
+          "alt": "Arco della Pace in Milan, Italy",
+          "caption": "Arco della Pace",
+          "author": "Gunnar Klack",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arco-della-Pace-Porta-Sempione-Milan-07-2017.jpg",
+          "title": "File:Arco-della-Pace-Porta-Sempione-Milan-07-2017.jpg"
+        },
+        {
+          "src": "assets/travel/milan/05.jpg",
+          "alt": "Parco Sempione in Milan, Italy",
+          "caption": "Parco Sempione",
+          "author": "01albertop",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parco_Sempione,_laghetto.jpg",
+          "title": "File:Parco Sempione, laghetto.jpg"
+        },
+        {
+          "src": "assets/travel/milan/06.jpg",
+          "alt": "Naviglio Grande in Milan, Italy",
+          "caption": "Naviglio Grande",
+          "author": "FlavMi",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naviglio_Grande,_Milan,_Italy.jpg",
+          "title": "File:Naviglio Grande, Milan, Italy.jpg"
+        },
+        {
+          "src": "assets/travel/milan/07.jpg",
+          "alt": "Porta Nuova skyline and Bosco Verticale in Milan, Italy",
+          "caption": "Porta Nuova skyline and Bosco Verticale",
+          "author": "Daniel Case",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Milan_skyline_with_Unicredit_Tower_and_Bosco_Verticale.jpg",
+          "title": "File:Milan skyline with Unicredit Tower and Bosco Verticale.jpg"
+        },
+        {
+          "src": "assets/travel/milan/08.jpg",
+          "alt": "Piazza Gae Aulenti in Milan, Italy",
+          "caption": "Piazza Gae Aulenti",
+          "author": "ThePhotoGraphIc",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piazza_Gae_Aulenti_in_2023.jpg",
+          "title": "File:Piazza Gae Aulenti in 2023.jpg"
+        },
+        {
+          "src": "assets/travel/milan/09.jpg",
+          "alt": "Brera Palace courtyard in Milan, Italy",
+          "caption": "Brera Palace courtyard",
+          "author": "Yair-haklai",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palazzo_di_Brera_(Milan)_-_Courtyard.jpg",
+          "title": "File:Palazzo di Brera (Milan) - Courtyard.jpg"
+        },
+        {
+          "src": "assets/travel/milan/10.jpg",
+          "alt": "Santa Maria delle Grazie in Milan, Italy",
+          "caption": "Santa Maria delle Grazie",
+          "author": "Carlo Dell'Orto",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Maria_delle_Grazie_(Milan)_Apse_exterior_07.JPG",
+          "title": "File:Santa Maria delle Grazie (Milan) Apse exterior 07.JPG"
+        }
+      ]
+    },
+    {
       "id": "nice",
       "name": "Nice",
       "country": "France",
@@ -2950,6 +3978,120 @@
       ],
       "aliases": [
         "巴黎"
+      ]
+    },
+    {
+      "id": "pattaya",
+      "name": "Pattaya",
+      "country": "Thailand",
+      "countryCode": "THA",
+      "lat": 12.9357,
+      "lon": 100.889,
+      "aliases": [
+        "芭提雅",
+        "Pattaya"
+      ],
+      "photos": [
+        {
+          "src": "assets/travel/pattaya/01.jpg",
+          "alt": "Palm trees along Pattaya Bay, Thailand",
+          "caption": "Palm trees along Pattaya Bay",
+          "author": "Vyacheslav Argenberg",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pattaya_Bay,_Palms,_Thailand.jpg",
+          "title": "File:Pattaya Bay, Palms, Thailand.jpg"
+        },
+        {
+          "src": "assets/travel/pattaya/02.jpg",
+          "alt": "Pattaya Bay and beach from the viewpoint, Thailand",
+          "caption": "Pattaya Bay from the viewpoint",
+          "author": "Sergey S. Dukachev",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pattaya_beach_from_view_point.jpg",
+          "title": "File:Pattaya beach from view point.jpg"
+        },
+        {
+          "src": "assets/travel/pattaya/03.jpg",
+          "alt": "Pattaya skyline from the sea, Thailand",
+          "caption": "Pattaya skyline from the sea",
+          "author": "Omio Asad",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pattaya,_Thailand_Skyline.jpg",
+          "title": "File:Pattaya, Thailand Skyline.jpg"
+        },
+        {
+          "src": "assets/travel/pattaya/04.jpg",
+          "alt": "Sanctuary of Truth, Thailand",
+          "caption": "Sanctuary of Truth",
+          "author": "Rolf Heinrich, Köln",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sanctuary_of_Truth_2016-02-19-02.jpg",
+          "title": "File:Sanctuary of Truth 2016-02-19-02.jpg"
+        },
+        {
+          "src": "assets/travel/pattaya/05.jpg",
+          "alt": "Inside the Sanctuary of Truth, Thailand",
+          "caption": "Inside the Sanctuary of Truth",
+          "author": "Jonashtand",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:202307_Interior_of_the_Sanctuary_of_Truth_01.jpg",
+          "title": "File:202307 Interior of the Sanctuary of Truth 01.jpg"
+        },
+        {
+          "src": "assets/travel/pattaya/06.jpg",
+          "alt": "Nong Nooch Tropical Garden near Pattaya, Thailand",
+          "caption": "Nong Nooch Tropical Garden near Pattaya",
+          "author": "Wayne77",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nong_Nooch-01.JPG",
+          "title": "File:Nong Nooch-01.JPG"
+        },
+        {
+          "src": "assets/travel/pattaya/07.jpg",
+          "alt": "Tawaen Beach on Ko Lan, near Pattaya, Thailand",
+          "caption": "Tawaen Beach on Ko Lan, near Pattaya",
+          "author": "Stefan Fussan",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tawaen_Beach,_Ko_Lan_0001.jpg",
+          "title": "File:Tawaen Beach, Ko Lan 0001.jpg"
+        },
+        {
+          "src": "assets/travel/pattaya/08.jpg",
+          "alt": "Samae Beach on Ko Lan, near Pattaya, Thailand",
+          "caption": "Samae Beach on Ko Lan, near Pattaya",
+          "author": "iMahesh",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samae_Beach_from_Windmill_view_point.jpg",
+          "title": "File:Samae Beach from Windmill view point.jpg"
+        },
+        {
+          "src": "assets/travel/pattaya/09.jpg",
+          "alt": "Sunset at Jomtien Beach, Thailand",
+          "caption": "Sunset at Jomtien Beach",
+          "author": "Slyronit",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jomtien_beach_at_sunset.jpg",
+          "title": "File:Jomtien beach at sunset.jpg"
+        },
+        {
+          "src": "assets/travel/pattaya/10.jpg",
+          "alt": "Wat Khao Phra Yai on Pratumnak Hill, Thailand",
+          "caption": "Wat Khao Phra Yai on Pratumnak Hill",
+          "author": "Ruslik0",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wat_Khao_Phra_Yai_(Pattaya)_06.JPG",
+          "title": "File:Wat Khao Phra Yai (Pattaya) 06.JPG"
+        }
       ]
     },
     {
@@ -3977,6 +5119,351 @@
       ]
     },
     {
+      "id": "taichung",
+      "name": "Taichung",
+      "country": "Taiwan",
+      "countryCode": "TWN",
+      "lat": 24.14389,
+      "lon": 120.67944,
+      "aliases": [
+        "台中",
+        "臺中",
+        "Taichung City"
+      ],
+      "photos": [
+        {
+          "alt": "National Taichung Theater, Taichung",
+          "caption": "National Taichung Theater",
+          "author": "Nico Kaiser",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Taichung_Theater_2019.jpg",
+          "title": "File:National Taichung Theater 2019.jpg",
+          "src": "assets/travel/taichung/01.jpg"
+        },
+        {
+          "alt": "Taichung Park, Taichung",
+          "caption": "Taichung Park",
+          "author": "Yoxem",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taichung_Park_Lake_Pavilion_20070925.jpg",
+          "title": "File:Taichung Park Lake Pavilion 20070925.jpg",
+          "src": "assets/travel/taichung/02.jpg"
+        },
+        {
+          "alt": "Gaomei Wetlands, Taichung",
+          "caption": "Gaomei Wetlands",
+          "author": "Kuocw 416",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaomei_Wetland_kuocw_416_555594017.jpg",
+          "title": "File:Gaomei Wetland kuocw 416 555594017.jpg",
+          "src": "assets/travel/taichung/03.jpg"
+        },
+        {
+          "alt": "Rainbow Village, Taichung",
+          "caption": "Rainbow Village",
+          "author": "Zairon",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taichung_Rainbow_Village_45.jpg",
+          "title": "File:Taichung Rainbow Village 45.jpg",
+          "src": "assets/travel/taichung/04.jpg"
+        },
+        {
+          "alt": "Miyahara, Taichung",
+          "caption": "Miyahara",
+          "author": "Tze Chiang Hao",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:June_2023_Miyahara_Eye_Hospital.jpg",
+          "title": "File:June 2023 Miyahara Eye Hospital.jpg",
+          "src": "assets/travel/taichung/05.jpg"
+        },
+        {
+          "alt": "Wufeng Lin Family Mansion, Taichung",
+          "caption": "Wufeng Lin Family Mansion",
+          "author": "Mk2010",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wufeng_Lin_Family_Mansion_and_Garden,_Residence_of_the_Palace_Guard,_Second_Hall_(Taiwan).jpg",
+          "title": "File:Wufeng Lin Family Mansion and Garden, Residence of the Palace Guard, Second Hall (Taiwan).jpg",
+          "src": "assets/travel/taichung/06.jpg"
+        },
+        {
+          "alt": "Taichung Confucius Temple, Taichung",
+          "caption": "Taichung Confucius Temple",
+          "author": "Ludahai at English Wikipedia",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taichung_Confucius_Temple_2.jpg",
+          "title": "File:Taichung Confucius Temple 2.jpg",
+          "src": "assets/travel/taichung/07.jpg"
+        },
+        {
+          "alt": "Luce Memorial Chapel, Taichung",
+          "caption": "Luce Memorial Chapel",
+          "author": "Yakult6067",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E8%B7%AF%E6%80%9D%E7%BE%A9%E7%9A%84%E7%90%86%E5%BF%B5.jpg",
+          "title": "File:路思義的理念.jpg",
+          "src": "assets/travel/taichung/08.jpg"
+        },
+        {
+          "alt": "Calligraphy Greenway, Taichung",
+          "caption": "Calligraphy Greenway",
+          "author": "Dquai",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Calligraphy_Greenway_in_Taichung.jpg",
+          "title": "File:The Calligraphy Greenway in Taichung.jpg",
+          "src": "assets/travel/taichung/09.jpg"
+        },
+        {
+          "alt": "National Taiwan Museum of Fine Arts, Taichung",
+          "caption": "National Taiwan Museum of Fine Arts",
+          "author": "Mariversa",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Taiwan_Museum_of_Fine_Arts_20170122.jpg",
+          "title": "File:National Taiwan Museum of Fine Arts 20170122.jpg",
+          "src": "assets/travel/taichung/10.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tainan",
+      "name": "Tainan",
+      "country": "Taiwan",
+      "countryCode": "TWN",
+      "lat": 22.99,
+      "lon": 120.185,
+      "aliases": [
+        "台南",
+        "臺南",
+        "Tainan City"
+      ],
+      "photos": [
+        {
+          "alt": "Chihkan Tower, Tainan",
+          "caption": "Chihkan Tower",
+          "author": "CEphoto, Uwe Aranas",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tainan_Taiwan_Fort-Provintia-01.jpg",
+          "title": "File:Tainan Taiwan Fort-Provintia-01.jpg",
+          "src": "assets/travel/tainan/01.jpg"
+        },
+        {
+          "alt": "Anping Fort, Tainan",
+          "caption": "Anping Fort",
+          "author": "CEphoto, Uwe Aranas",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tainan_Taiwan_Fort-Zeelandia-01.jpg",
+          "title": "File:Tainan Taiwan Fort-Zeelandia-01.jpg",
+          "src": "assets/travel/tainan/02.jpg"
+        },
+        {
+          "alt": "Anping Tree House, Tainan",
+          "caption": "Anping Tree House",
+          "author": "Mk2010",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anping_Tree_House,_Tainan_(Taiwan).jpg",
+          "title": "File:Anping Tree House, Tainan (Taiwan).jpg",
+          "src": "assets/travel/tainan/03.jpg"
+        },
+        {
+          "alt": "Tainan Confucius Temple, Tainan",
+          "caption": "Tainan Confucius Temple",
+          "author": "Nick-D",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterior_of_Tainan_Confucius_Temple_in_November_2017.jpg",
+          "title": "File:Exterior of Tainan Confucius Temple in November 2017.jpg",
+          "src": "assets/travel/tainan/04.jpg"
+        },
+        {
+          "alt": "Hayashi Department Store, Tainan",
+          "caption": "Hayashi Department Store",
+          "author": "Lchung9779",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hayashi_Department_Store_in_Tainan,_Taiwan_(%E6%9E%97%E7%99%BE%E8%B2%A8%EF%BC%89.jpg",
+          "title": "File:Hayashi Department Store in Tainan, Taiwan (林百貨）.jpg",
+          "src": "assets/travel/tainan/05.jpg"
+        },
+        {
+          "alt": "Shennong Street, Tainan",
+          "caption": "Shennong Street",
+          "author": "Tze Chiang Hao",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%A5%9E%E8%BE%B2%E8%A1%97_Shennong_Street_Tainan_City02.jpg",
+          "title": "File:神農街 Shennong Street Tainan City02.jpg",
+          "src": "assets/travel/tainan/06.jpg"
+        },
+        {
+          "alt": "Sicao Green Tunnel, Tainan",
+          "caption": "Sicao Green Tunnel",
+          "author": "Wikipeeeder",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taijiang_National_Park_%E2%80%94_Sicao_Mangrove_Green_Tunnel_(Annan_Dist.,_Tainan_City,_Taiwan_(R.O.C.).jpg",
+          "title": "File:Taijiang National Park — Sicao Mangrove Green Tunnel (Annan Dist., Tainan City, Taiwan (R.O.C.).jpg",
+          "src": "assets/travel/tainan/07.jpg"
+        },
+        {
+          "alt": "Chimei Museum, Tainan",
+          "caption": "Chimei Museum",
+          "author": "Deon",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chimei_Museum_20190210_(cropped).jpg",
+          "title": "File:Chimei Museum 20190210 (cropped).jpg",
+          "src": "assets/travel/tainan/08.jpg"
+        },
+        {
+          "alt": "Eternal Golden Castle, Tainan",
+          "caption": "Eternal Golden Castle",
+          "author": "CEphoto, Uwe Aranas",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anping_Taiwan_Eternal-Golden-Castle-01.jpg",
+          "title": "File:Anping Taiwan Eternal-Golden-Castle-01.jpg",
+          "src": "assets/travel/tainan/09.jpg"
+        },
+        {
+          "alt": "Jingzaijiao salt fields, Tainan",
+          "caption": "Jingzaijiao salt fields",
+          "author": "MW2019",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jingzaijiao_Tile-paved_Salt_Fields_,_Tainan_city_,_Taiwan.jpg",
+          "title": "File:Jingzaijiao Tile-paved Salt Fields , Tainan city , Taiwan.jpg",
+          "src": "assets/travel/tainan/10.jpg"
+        }
+      ]
+    },
+    {
+      "id": "taipei",
+      "name": "Taipei",
+      "country": "Taiwan",
+      "countryCode": "TWN",
+      "lat": 25.0375,
+      "lon": 121.5625,
+      "aliases": [
+        "台北",
+        "臺北",
+        "Taipei City"
+      ],
+      "photos": [
+        {
+          "alt": "Taipei skyline from Elephant Mountain, Taipei",
+          "caption": "Taipei skyline from Elephant Mountain",
+          "author": "4300streetcar",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taipei_night_skyline_from_Elephant_Mountain_May_2025_2.jpg",
+          "title": "File:Taipei night skyline from Elephant Mountain May 2025 2.jpg",
+          "src": "assets/travel/taipei/01.jpg"
+        },
+        {
+          "alt": "Chiang Kai-shek Memorial Hall, Taipei",
+          "caption": "Chiang Kai-shek Memorial Hall",
+          "author": "AngMoKio",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_memorial_amk.jpg",
+          "title": "File:Chiang Kai-shek memorial amk.jpg",
+          "src": "assets/travel/taipei/02.jpg"
+        },
+        {
+          "alt": "Longshan Temple, Taipei",
+          "caption": "Longshan Temple",
+          "author": "Bernard Gagnon",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg",
+          "title": "File:Longshan Temple, Taipei 01.jpg",
+          "src": "assets/travel/taipei/03.jpg"
+        },
+        {
+          "alt": "Daan Forest Park, Taipei",
+          "caption": "Daan Forest Park",
+          "author": "玄史生",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daan_Park_Ecological_Pool_West_Zone.jpg",
+          "title": "File:Daan Park Ecological Pool West Zone.jpg",
+          "src": "assets/travel/taipei/04.jpg"
+        },
+        {
+          "alt": "Dihua Street, Taipei",
+          "caption": "Dihua Street",
+          "author": "Supanut Arunoprayote",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Buildings_along_Dihua_Street_07.23_(2).jpg",
+          "title": "File:Buildings along Dihua Street 07.23 (2).jpg",
+          "src": "assets/travel/taipei/05.jpg"
+        },
+        {
+          "alt": "Beitou Thermal Valley, Taipei",
+          "caption": "Beitou Thermal Valley",
+          "author": "GiveMeMollusks",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thermal_Valley_in_Beitou.jpg",
+          "title": "File:Thermal Valley in Beitou.jpg",
+          "src": "assets/travel/taipei/06.jpg"
+        },
+        {
+          "alt": "National Palace Museum, Taipei",
+          "caption": "National Palace Museum",
+          "author": "Jason Zhang",
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Palace_Museum,_Taipei.jpg",
+          "title": "File:National Palace Museum, Taipei.jpg",
+          "src": "assets/travel/taipei/07.jpg"
+        },
+        {
+          "alt": "Xiaoyoukeng, Yangmingshan, Taipei",
+          "caption": "Xiaoyoukeng, Yangmingshan",
+          "author": "Jim X",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:9025_Yangmingshan_National_Park_Xiaoyoukeng_Jim_X_2953.jpg",
+          "title": "File:9025 Yangmingshan National Park Xiaoyoukeng Jim X 2953.jpg",
+          "src": "assets/travel/taipei/08.jpg"
+        },
+        {
+          "alt": "Dadaocheng Wharf, Taipei",
+          "caption": "Dadaocheng Wharf",
+          "author": "Luke Ma",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dadaocheng_Wharf.jpg",
+          "title": "File:Dadaocheng Wharf.jpg",
+          "src": "assets/travel/taipei/09.jpg"
+        },
+        {
+          "alt": "Sun Yat-sen Memorial Hall, Taipei",
+          "caption": "Sun Yat-sen Memorial Hall",
+          "author": "CEphoto, Uwe Aranas",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Sun-Yat-sen-Memorial-Hall-02.jpg",
+          "title": "File:Taipei Taiwan Sun-Yat-sen-Memorial-Hall-02.jpg",
+          "src": "assets/travel/taipei/10.jpg"
+        }
+      ]
+    },
+    {
       "id": "taiwan",
       "name": "Taiwan",
       "country": "",
@@ -4427,6 +5914,122 @@
       "aliases": [
         "东京",
         "日本东京"
+      ]
+    },
+    {
+      "id": "urumqi",
+      "name": "Ürümqi",
+      "country": "China",
+      "countryCode": "CHN",
+      "lat": 43.8225,
+      "lon": 87.6125,
+      "aliases": [
+        "乌鲁木齐市",
+        "乌鲁木齐",
+        "Urumqi",
+        "Urumchi"
+      ],
+      "photos": [
+        {
+          "src": "assets/travel/urumqi/01.jpg",
+          "alt": "Hongshan Park, Ürümqi, Xinjiang, China",
+          "caption": "Hongshan Park",
+          "author": "Man21",
+          "license": "CC BY-SA 3.0 de",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%9Cr%C3%BCmqi,_Hongshan_Park.JPG",
+          "title": "File:Ürümqi, Hongshan Park.JPG"
+        },
+        {
+          "src": "assets/travel/urumqi/02.jpg",
+          "alt": "Hongshan Pagoda, Ürümqi, Xinjiang, China",
+          "caption": "Hongshan Pagoda",
+          "author": "螺钉",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongshan_Pagoda.jpg",
+          "title": "File:Hongshan Pagoda.jpg"
+        },
+        {
+          "src": "assets/travel/urumqi/03.jpg",
+          "alt": "City views from Hongshan, Ürümqi, Xinjiang, China",
+          "caption": "City views from Hongshan",
+          "author": "User: (WT-shared) Josesan at  wts wikivoyage",
+          "license": "Public domain",
+          "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Urumqi_from_Hongshan_(red_mountain)_park.jpg",
+          "title": "File:View of Urumqi from Hongshan (red mountain) park.jpg"
+        },
+        {
+          "src": "assets/travel/urumqi/04.jpg",
+          "alt": "Xinjiang International Grand Bazaar, Ürümqi, Xinjiang, China",
+          "caption": "Xinjiang International Grand Bazaar",
+          "author": "29cm from Hong Kong",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Urumqi_s_bazzar.jpg",
+          "title": "File:Urumqi s bazzar.jpg"
+        },
+        {
+          "src": "assets/travel/urumqi/05.jpg",
+          "alt": "The Grand Bazaar in winter, Ürümqi, Xinjiang, China",
+          "caption": "The Grand Bazaar in winter",
+          "author": "Windmemories",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231218_Xinjiang_International_Grand_Bazaar_01.jpg",
+          "title": "File:20231218 Xinjiang International Grand Bazaar 01.jpg"
+        },
+        {
+          "src": "assets/travel/urumqi/06.jpg",
+          "alt": "People's Park, Ürümqi, Xinjiang, China",
+          "caption": "People's Park",
+          "author": "Radosław Botev",
+          "license": "CC BY 3.0 pl",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Urumqi_People%27s_Park_(2).jpg",
+          "title": "File:Urumqi People's Park (2).jpg"
+        },
+        {
+          "src": "assets/travel/urumqi/07.jpg",
+          "alt": "Lakeside pavilion in People's Park, Ürümqi, Xinjiang, China",
+          "caption": "Lakeside pavilion in People's Park",
+          "author": "HaziiDozen",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E4%BA%BA%E6%B0%91%E5%85%AC%E5%9B%AD%E6%B9%96%E5%BF%83%E4%BA%AD1.jpg",
+          "title": "File:乌鲁木齐人民公园湖心亭1.jpg"
+        },
+        {
+          "src": "assets/travel/urumqi/08.jpg",
+          "alt": "Nanhu Square, Ürümqi, Xinjiang, China",
+          "caption": "Nanhu Square",
+          "author": "Yangxu76758564",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Urumqi_Nanhu_Square.jpg",
+          "title": "File:Urumqi Nanhu Square.jpg"
+        },
+        {
+          "src": "assets/travel/urumqi/09.jpg",
+          "alt": "The city skyline, Ürümqi, Xinjiang, China",
+          "caption": "The city skyline",
+          "author": "Caitriana Nicholson from 北京 ~ Beijing, 中国 ~ China",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Urumqi_skyline_(8062737951).jpg",
+          "title": "File:Urumqi skyline (8062737951).jpg"
+        },
+        {
+          "src": "assets/travel/urumqi/10.jpg",
+          "alt": "Ürümqi in summer, Ürümqi, Xinjiang, China",
+          "caption": "Ürümqi in summer",
+          "author": "Albertaont",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Urumqi_Skyline_July_2019.jpg",
+          "title": "File:Urumqi Skyline July 2019.jpg"
+        }
       ]
     },
     {
