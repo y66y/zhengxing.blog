@@ -475,7 +475,7 @@ time { font-variant-numeric: tabular-nums; }
 .school-emblem img {width:54px;height:54px;object-fit:contain;}
 .school-emblem.emblem-ouc img {object-fit:cover;transform:scale(1.35);}
 .school-emblem.emblem-dut img {object-fit:cover;transform:scale(1.1);}
-.school-emblem-pair {display:flex;flex-direction:column;gap:7px;flex:0 0 54px;}
+.school-emblem-pair {display:flex;flex-direction:row;align-items:center;gap:7px;flex:0 0 115px;width:115px;height:54px;}
 .research-overview {font-size:15px;color:#526476;}
 .research-tags {display:flex;flex-wrap:wrap;gap:8px;margin:0 0 24px;}
 .research-tags span {padding:5px 10px;background:#eef5fb;border-radius:5px;font-size:12px;color:#32618a;}
@@ -518,4 +518,11 @@ time { font-variant-numeric: tabular-nums; }
 
 .school-emblem.emblem-hku img {border-radius:5px;}
 .school-emblem.emblem-um img {width:174px;height:54px;max-width:none;object-fit:fill;}
-.school-emblem.emblem-um {width:49px;border-radius:2px;}
+.school-emblem.emblem-um {flex:0 0 46px;width:46px;border-radius:2px;}
+
+/* Keep paired university emblems together on small screens. */
+@media(max-width:600px){
+  .education-item {flex-direction:column;gap:10px;}
+  .school-emblem-pair {flex:0 0 auto;width:115px;height:54px;}
+  .school-details {width:100%;}
+}

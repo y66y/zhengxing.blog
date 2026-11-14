@@ -104,24 +104,26 @@
   <h2 id="experience-title" class="card-heading">Experience</h2>
   <div class="card-body">
     <p class="experience-intro">Places I have visited, from cities to mountains and lakes.</p>
-    <div class="experience-map-toolbar" role="group" aria-label="Map view">
-      <button type="button" data-map-view="world" aria-pressed="true">World</button>
-      <button type="button" data-map-view="europe" aria-pressed="false">Europe</button>
-      <button type="button" data-map-view="china" aria-pressed="false">China</button><button type="button" data-map-view="south-china" aria-pressed="false">South China</button><button type="button" data-map-view="east-asia" aria-pressed="false">East Asia</button>
+    <div class="experience-map-toolbar">
+      <div class="experience-map-regions" role="group" aria-label="Map region">
+        <button type="button" data-map-view="world" aria-pressed="true">World</button>
+        <button type="button" data-map-view="europe" aria-pressed="false">Europe</button>
+        <button type="button" data-map-view="china" aria-pressed="false">China</button>
+        <button type="button" data-map-view="south-china" aria-pressed="false">South China</button>
+        <button type="button" data-map-view="east-asia" aria-pressed="false">East Asia</button>
+      </div>
+      <div class="experience-map-zoom" role="group" aria-label="Map zoom">
+        <button type="button" data-map-zoom="in" aria-label="Zoom in" title="Zoom in">+</button>
+        <button type="button" data-map-zoom="out" aria-label="Zoom out" title="Zoom out" disabled>−</button>
+        <button type="button" data-map-reset aria-label="Reset world map" title="Reset world map">↺</button>
+      </div>
     </div>
-    <div class="experience-map-viewport" aria-label="Visited places on a world map">
+    <div class="experience-map-viewport" role="group" tabindex="0" aria-label="Interactive map of visited places">
       <div class="experience-map-layer">
         <div class="experience-map-art" aria-hidden="true"></div>
         <div class="experience-map-markers"></div>
       </div>
     </div>
-    <div class="experience-cluster-panel" hidden aria-label="Nearby places"><div class="experience-cluster-heading"><h3>Choose a place</h3><button type="button" class="experience-cluster-close" aria-label="Close nearby places">×</button></div><div class="experience-cluster-places"></div></div>
-<p class="experience-map-hint">Select a marker to view photographs. Numbered markers group nearby places.</p>
-<div class="experience-find"><label for="experience-search">Find a place</label><input id="experience-search" type="search" placeholder="Search places or regions" autocomplete="off"><p id="experience-count" role="status" aria-live="polite"></p></div>
-    <div class="experience-places" role="group" aria-label="Visited places"></div>
-    <p class="experience-empty" hidden>Photographs will be added here soon.</p>
-    <p class="experience-credit">Scenic photographs · Wikimedia Commons</p>
-    <noscript><p>Enable JavaScript to explore the map and photo galleries.</p></noscript>
   </div>
 </section>
 <dialog class="experience-dialog" aria-labelledby="experience-gallery-title" aria-describedby="experience-gallery-kind">
