@@ -277,7 +277,7 @@
       "ccf_source_page": null
     },
     "image": "assets/publications/paper-5.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 7,
@@ -795,7 +795,7 @@
       "ccf_source_page": null
     },
     "image": "assets/publications/paper-19.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 21,
@@ -856,7 +856,7 @@
       "ccf_source_page": null
     },
     "image": "assets/publications/paper-21.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 22,
@@ -1087,7 +1087,7 @@
       "ccf_source_page": 44
     },
     "image": "assets/publications/paper-26.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 27,
@@ -1142,7 +1142,7 @@
       "ccf_source_page": 55
     },
     "image": "assets/publications/paper-27.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 28,
@@ -1245,7 +1245,7 @@
       "ccf_source_page": null
     },
     "image": "assets/publications/paper-30.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 31,
@@ -1306,7 +1306,7 @@
       "ccf_source_page": 68
     },
     "image": "assets/publications/paper-31.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 32,
@@ -1393,7 +1393,7 @@
       "ccf_source_page": 15
     },
     "image": "assets/publications/paper-34.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 35,
@@ -1585,7 +1585,7 @@
       "ccf_source_page": 54
     },
     "image": "assets/publications/paper-38.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 39,
@@ -1767,7 +1767,7 @@
       "ccf_source_page": 32
     },
     "image": "assets/publications/paper-41.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 42,
@@ -1915,7 +1915,7 @@
       "ccf_source_page": null
     },
     "image": "assets/publications/paper-44.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 45,
@@ -1959,7 +1959,7 @@
       "ccf_source_page": 15
     },
     "image": "assets/publications/paper-45.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   },
   {
     "id": 46,
@@ -2003,6 +2003,6 @@
       "ccf_source_page": 15
     },
     "image": "assets/publications/paper-46.webp",
-    "image_kind": "paper"
+    "image_kind": "concept"
   }
 ]

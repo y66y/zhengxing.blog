@@ -515,3 +515,7 @@ time { font-variant-numeric: tabular-nums; }
   .card{scroll-margin-top:91px;}
 }
 @media (max-width:380px){body{padding-top:119px;}html{scroll-padding-top:119px;}.card{scroll-margin-top:119px;}}
+
+.school-emblem.emblem-hku img {border-radius:5px;}
+.school-emblem.emblem-um img {width:174px;height:54px;max-width:none;object-fit:fill;}
+.school-emblem.emblem-um {width:49px;border-radius:2px;}

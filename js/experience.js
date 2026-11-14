@@ -17,7 +17,8 @@
   const previous = find('.experience-gallery-prev');
   const next = find('.experience-gallery-next');
   const close = find('.experience-gallery-close');
-  const countryIds = { CHN: '156', CHE: '756', FRA: '250', GBR: '826', China: '156', Switzerland: '756', France: '250', 'United Kingdom': '826' };
+  const countryIds = { JPN: '392', KOR: '410', TWN: '158', CHN: '156', CHE: '756', FRA: '250', GBR: '826', China: '156', Switzerland: '756', France: '250', 'United Kingdom': '826' };
+  const placeLabel = place => [place.name, place.country].filter(Boolean).join(', ');
   let activePlace = null;
   let photos = [];
   let photoIndex = 0;
@@ -60,7 +61,7 @@
     placeholder.hidden = false;
     if (!photo) {
       placeholder.textContent = 'Photographs will be added here soon.';
-      caption.textContent = activePlace.name + ', ' + activePlace.country;
+      caption.textContent = placeLabel(activePlace);
       counter.textContent = '';
       return;
     }
@@ -85,13 +86,14 @@
     if (!galleryOpen) return;
     galleryOpen = false;
     document.body.style.overflow = previousOverflow;
-    if (opener && opener.isConnected) opener.focus();
+    if (opener && opener.isConnected && opener.getClientRects().length) opener.focus();
+    else root.querySelector('#experience-search').focus();
   }
 
   function openPlace(place, trigger) {
     activePlace = place; photos = Array.isArray(place.photos) ? place.photos.filter(p => p && typeof p.src === 'string') : [];
     photoIndex = 0; opener = trigger;
-    find('#experience-gallery-title').textContent = place.name + ', ' + place.country;
+    find('#experience-gallery-title').textContent = placeLabel(place);
     find('#experience-gallery-kind').textContent = place.galleryLabel || data.galleryLabel || 'Scenic photographs · Wikimedia Commons';
     renderPhoto(); previousOverflow = document.body.style.overflow; document.body.style.overflow = 'hidden'; galleryOpen = true;
     if (typeof dialog.showModal === 'function') dialog.showModal();
@@ -110,39 +112,125 @@
     photoIndex = (photoIndex + delta + photos.length) % photos.length; renderPhoto();
   }
 
-  places.forEach(place => {
+  const search = root.querySelector('#experience-search');
+  const count = root.querySelector('#experience-count');
+  const clusterPanel = root.querySelector('.experience-cluster-panel');
+  const clusterList = root.querySelector('.experience-cluster-places');
+  const viewport = root.querySelector('.experience-map-viewport');
+  const placeButtons = new Map();
+  let matchingPlaces = places;
+  let currentView = 'world';
+  let clusterOpener = null;
+  const normalize = value => String(value || '').normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[\s'’‘-]/g, '').toLowerCase();
+  const views = {
+    world: [1, .5, .5],
+    europe: [9, (5 + 180) / 360, (90 - 48) / 180],
+    china: [4.5, (108 + 180) / 360, (90 - 35) / 180],
+    'south-china': [25, (114 + 180) / 360, (90 - 23) / 180],
+    'east-asia': [7, (131 + 180) / 360, (90 - 36) / 180]
+  };
+  function makePlaceButton(place) {
     const button = document.createElement('button');
-    button.type = 'button'; button.className = 'experience-place';
+    button.type = 'button'; button.className = 'experience-place'; button.dataset.placeId = place.id;
     button.append(document.createTextNode(place.name));
-    button.setAttribute('aria-label', 'View photographs of ' + place.name + ', ' + place.country);
-    const country = document.createElement('span'); country.textContent = place.country; button.append(country);
-    button.addEventListener('click', () => openPlace(place, button)); list.append(button);
-    const marker = document.createElement('button');
-    const x = (place.lon + 180) / 360; const y = (90 - place.lat) / 180;
-    marker.type = 'button'; marker.className = 'experience-map-marker';
-    marker.style.left = `${x * 100}%`; marker.style.top = `${y * 100}%`;
-    marker.dataset.x = String(x); marker.dataset.y = String(y);
-    marker.title = place.name + ', ' + place.country;
-    marker.setAttribute('aria-label', 'View photographs of ' + place.name + ', ' + place.country);
-    marker.addEventListener('click', () => openPlace(place, marker)); markers.append(marker);
+    button.setAttribute('aria-label', 'View photographs of ' + placeLabel(place));
+    if (place.country) { const label = document.createElement('span'); label.textContent = place.country; button.append(label); }
+    button.addEventListener('click', () => openPlace(place, button));
+    return button;
+  }
+  places.forEach(place => {
+    const button = makePlaceButton(place); placeButtons.set(place.id, button); list.append(button);
   });
-  root.querySelector('.experience-empty').hidden = places.length > 0;
-  if (!places.length) { root.querySelector('.experience-map-hint').hidden = true; root.querySelector('.experience-credit').hidden = true; }
-
-  const views = { world: [1, 0.5, 0.5], europe: [7, (5 + 180) / 360, (90 - 48) / 180], china: [3, (112 + 180) / 360, (90 - 33) / 180] };
-  root.querySelectorAll('[data-map-view]').forEach(button => {
-    button.addEventListener('click', () => {
-      const [zoom, cx, cy] = views[button.dataset.mapView] || views.world;
-      const tx = 0.5 - cx * zoom; const ty = 0.5 - cy * zoom;
-      layer.style.transform = `translate(${tx * 100}%, ${ty * 100}%) scale(${zoom})`;
-      layer.style.setProperty('--map-zoom', String(zoom));
-      markers.querySelectorAll('button').forEach(marker => {
-        const x = Number(marker.dataset.x) * zoom + tx; const y = Number(marker.dataset.y) * zoom + ty;
-        marker.hidden = x < 0 || x > 1 || y < 0 || y > 1;
-      });
-      root.querySelectorAll('[data-map-view]').forEach(item => item.setAttribute('aria-pressed', String(item === button)));
+  function closeCluster(restoreFocus = false) {
+    clusterPanel.hidden = true;
+    if (restoreFocus && clusterOpener && clusterOpener.isConnected) clusterOpener.focus();
+  }
+  function showCluster(group, button) {
+    clusterOpener = button; clusterList.replaceChildren(...group.map(makePlaceButton));
+    clusterPanel.hidden = false;
+    clusterPanel.querySelector('h3').textContent = 'Choose a place · ' + group.length;
+    clusterList.querySelector('button').focus({ preventScroll: true });
+    clusterPanel.scrollIntoView({block:'nearest',behavior:'auto'});
+  }
+  function renderMarkers() {
+    const [zoom, cx, cy] = views[currentView];
+    const tx = .5 - cx * zoom, ty = .5 - cy * zoom;
+    layer.style.transform = `translate(${tx * 100}%, ${ty * 100}%) scale(${zoom})`;
+    layer.style.setProperty('--map-zoom', String(zoom));
+    const width = viewport.clientWidth, height = viewport.clientHeight, groups = [];
+    for (const place of matchingPlaces) {
+      const x = (place.lon + 180) / 360, y = (90 - place.lat) / 180;
+      const sx = x * zoom + tx, sy = y * zoom + ty;
+      if (sx < 0 || sx > 1 || sy < 0 || sy > 1) continue;
+      const group = groups.find(g => Math.hypot((sx - g.sx) * width, (sy - g.sy) * height) < 34);
+      if (group) {
+        const n = group.places.length;
+        group.x = (group.x * n + x)/(n+1); group.y = (group.y * n + y)/(n+1);
+        group.sx = (group.sx * n + sx)/(n+1); group.sy = (group.sy * n + sy)/(n+1);
+        group.places.push(place);
+      } else groups.push({x,y,sx,sy,places:[place]});
+    }
+    // Centroids can move as points are added; merge again until markers no longer overlap.
+    let merged = true;
+    while (merged) {
+      merged = false;
+      outer: for (let i=0;i<groups.length;i++) for (let j=i+1;j<groups.length;j++) {
+        const a=groups[i], b=groups[j];
+        if (Math.hypot((a.sx-b.sx)*width,(a.sy-b.sy)*height)>=34) continue;
+        const n=a.places.length,m=b.places.length;
+        for (const k of ['x','y','sx','sy']) a[k]=(a[k]*n+b[k]*m)/(n+m);
+        a.places.push(...b.places);groups.splice(j,1);merged=true;break outer;
+      }
+    }
+    markers.replaceChildren();
+    groups.forEach(group => {
+      const marker = document.createElement('button');
+      marker.type = 'button'; marker.className = 'experience-map-marker';
+      marker.style.left = `${group.x * 100}%`; marker.style.top = `${group.y * 100}%`;
+      marker.dataset.placeIds = group.places.map(p => p.id).join(' ');
+      if (group.places.length === 1) {
+        const place = group.places[0]; marker.title = placeLabel(place);
+        marker.setAttribute('aria-label','View photographs of ' + placeLabel(place));
+        marker.addEventListener('click',() => openPlace(place,marker));
+      } else {
+        marker.classList.add('is-cluster'); marker.textContent = group.places.length;
+        const label = group.places.map(p => p.name).join(', ');
+        marker.title = label; marker.setAttribute('aria-label', `${group.places.length} nearby places: ${label}`);
+        marker.addEventListener('click',() => showCluster(group.places,marker));
+      }
+      markers.append(marker);
     });
-  });
+  }
+  function filterPlaces() {
+    const query = normalize(search.value.trim());
+    matchingPlaces = places.filter(place => normalize([place.id,place.name,place.country,...(place.aliases || [])].join(' ')).includes(query));
+    const visible = new Set(matchingPlaces.map(p => p.id));
+    placeButtons.forEach((button,id) => { button.hidden = !visible.has(id); });
+    count.textContent = query ? `${matchingPlaces.length} of ${places.length} places` : `${places.length} places · ${places.reduce((n,p)=>n+(p.photos||[]).length,0)} photographs`;
+    root.querySelector('.experience-empty').hidden = matchingPlaces.length > 0;
+    root.querySelector('.experience-empty').textContent = 'No places match your search.';
+    closeCluster(); renderMarkers();
+  }
+  search.addEventListener('input',filterPlaces);
+  root.querySelector('.experience-cluster-close').addEventListener('click',()=>closeCluster(true));
+  clusterPanel.addEventListener('keydown',event => { if(event.key==='Escape'){event.preventDefault();closeCluster(true);} });
+  root.querySelectorAll('[data-map-view]').forEach(button => button.addEventListener('click',() => {
+    currentView = button.dataset.mapView; closeCluster(); renderMarkers();
+    root.querySelectorAll('[data-map-view]').forEach(item=>item.setAttribute('aria-pressed',String(item===button)));
+  }));
+  function resizeMap() {
+    const active=document.activeElement;
+    const restore=markers.contains(active)||clusterPanel.contains(active);
+    const ids=(active.dataset.placeIds||active.dataset.placeId||'').split(' ');
+    closeCluster();renderMarkers();
+    if (restore) {
+      const target=[...markers.querySelectorAll('button')].find(button=>button.dataset.placeIds.split(' ').some(id=>ids.includes(id)));
+      (target||search).focus({preventScroll:true});
+    }
+  }
+  if ('ResizeObserver' in window) new ResizeObserver(resizeMap).observe(viewport);
+  else window.addEventListener('resize',resizeMap);
+  filterPlaces();
 
   close.addEventListener('click', closeGallery);
   previous.addEventListener('click', () => step(-1)); next.addEventListener('click', () => step(1));

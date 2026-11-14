@@ -48,9 +48,9 @@
     "id": 5,
     "title": "Survey-Free Radio Map Construction via HMM-Based Coarse-to-Fine Inference",
     "image": "assets/publications/paper-5.webp",
-    "kind": "paper",
-    "image_source": "https://arxiv.org/pdf/2605.11038",
-    "image_caption": "Fig. 1. The proposed framework for survey-free radio map construction: collecting unlabeled RSS sequences, HMM-based coarse-to-fine inference, and the resulting trajectory and radio map.",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-5",
+    "image_caption": "AI-generated concept illustration of Survey-Free Radio Map Construction via HMM-Based Coarse-to-Fine Inference",
     "summary_sources": [
       "https://arxiv.org/abs/2605.11038",
       "https://doi.org/10.1109/TNSE.2026.3747162"
@@ -162,9 +162,9 @@
     "id": 19,
     "title": "Energy-Efficient Multi-UAV-Enabled MEC Systems over Space-Air-Ground Integrated Networks",
     "image": "assets/publications/paper-19.webp",
-    "kind": "paper",
-    "image_source": "https://arxiv.org/pdf/2409.14782v2",
-    "image_caption": "Fig. 1. System model of the space-air-ground integrated MEC.",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-19",
+    "image_caption": "AI-generated concept illustration of Energy-Efficient Multi-UAV-Enabled MEC Systems over Space-Air-Ground Integrated Networks",
     "summary_sources": [
       "https://arxiv.org/abs/2409.14782v2",
       "https://doi.org/10.1109/TVT.2026.3703328"
@@ -174,9 +174,9 @@
     "id": 21,
     "title": "Movable-Antenna Enabled Robust Vehicular Consumer Networks Under Imperfect CSI",
     "image": "assets/publications/paper-21.webp",
-    "kind": "paper",
-    "image_source": "https://arxiv.org/pdf/2604.17791",
-    "image_caption": "Fig. 1. The MA-enabled CVN system.",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-21",
+    "image_caption": "AI-generated concept illustration of Movable-Antenna Enabled Robust Vehicular Consumer Networks Under Imperfect CSI",
     "summary_sources": [
       "https://arxiv.org/abs/2604.17791",
       "https://doi.org/10.1109/TCE.2026.3686813"
@@ -221,9 +221,9 @@
     "id": 26,
     "title": "Temporal visual semantics-induced human motion understanding with large language models",
     "image": "assets/publications/paper-26.webp",
-    "kind": "paper",
-    "image_source": "https://arxiv.org/html/2512.22249v1/background.png",
-    "image_caption": "Framework of temporal visual semantics for human-motion understanding (Figure 1).",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-26",
+    "image_caption": "AI-generated concept illustration of Temporal visual semantics-induced human motion understanding with large language models",
     "summary_sources": [
       "https://arxiv.org/abs/2512.22249",
       "https://pubmed.ncbi.nlm.nih.gov/41712391/"
@@ -233,9 +233,9 @@
     "id": 27,
     "title": "Clustering structure identification with ordering graph",
     "image": "assets/publications/paper-27.webp",
-    "kind": "paper",
-    "image_source": "https://ars.els-cdn.com/content/image/1-s2.0-S0950705126007252-gr1.jpg",
-    "image_caption": "Clustering framework using similarity-matrix ordering and partitioning (Figure 1).",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-27",
+    "image_caption": "AI-generated concept illustration of Clustering structure identification with ordering graph",
     "summary_sources": [
       "https://www.sciencedirect.com/science/article/pii/S0950705126007252"
     ]
@@ -255,9 +255,9 @@
     "id": 30,
     "title": "Blind Construction of Angular Power Maps in Massive MIMO Networks",
     "image": "assets/publications/paper-30.webp",
-    "kind": "paper",
-    "image_source": "https://arxiv.org/html/2510.07071v1/background.png",
-    "image_caption": "Mobile-user movement and multipath propagation in a massive-MIMO environment (Figure 1).",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-30",
+    "image_caption": "AI-generated concept illustration of Blind Construction of Angular Power Maps in Massive MIMO Networks",
     "summary_sources": [
       "https://arxiv.org/abs/2510.07071"
     ]
@@ -266,9 +266,9 @@
     "id": 31,
     "title": "Trajectory Map-Matching in Urban Road Networks Based on RSS Measurements",
     "image": "assets/publications/paper-31.webp",
-    "kind": "paper",
-    "image_source": "https://arxiv.org/html/2502.01280v1/Mobility.png",
-    "image_caption": "Relationship between physical trajectories and received-signal-strength measurements (Figure 1).",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-31",
+    "image_caption": "AI-generated concept illustration of Trajectory Map-Matching in Urban Road Networks Based on RSS Measurements",
     "summary_sources": [
       "https://arxiv.org/abs/2502.01280"
     ]
@@ -288,9 +288,9 @@
     "id": 34,
     "title": "Unsupervised Radio Map Construction in Mixed LoS/NLoS Indoor Environments",
     "image": "assets/publications/paper-34.webp",
-    "kind": "paper",
-    "image_source": "https://arxiv.org/html/2510.08015v1/DatasetShow.png",
-    "image_caption": "Simulated indoor environment containing LOS and NLOS regions (Figure 2).",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-34",
+    "image_caption": "AI-generated concept illustration of Unsupervised Radio Map Construction in Mixed LoS/NLoS Indoor Environments",
     "summary_sources": [
       "https://arxiv.org/abs/2510.08015"
     ]
@@ -332,9 +332,9 @@
     "id": 38,
     "title": "Block-Diagonal Structure Learning for Subspace Clustering",
     "image": "assets/publications/paper-38.webp",
-    "kind": "paper",
-    "image_source": "https://ars.els-cdn.com/content/image/1-s2.0-S0957417425013892-gr1.jpg",
-    "image_caption": "Subspace-clustering framework with similarity-matrix permutation and segmentation (Figure 1).",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-38",
+    "image_caption": "AI-generated concept illustration of Block-Diagonal Structure Learning for Subspace Clustering",
     "summary_sources": [
       "https://www.sciencedirect.com/science/article/abs/pii/S0957417425013892"
     ]
@@ -365,9 +365,9 @@
     "id": 41,
     "title": "Block-Diagonal Guided DBSCAN Clustering",
     "image": "assets/publications/paper-41.webp",
-    "kind": "paper",
-    "image_source": "https://arxiv.org/html/2404.01341v1/Methology.png",
-    "image_caption": "BD-DBSCAN framework: graph construction, permutation, and segmentation (Figure 1).",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-41",
+    "image_caption": "AI-generated concept illustration of Block-Diagonal Guided DBSCAN Clustering",
     "summary_sources": [
       "https://arxiv.org/abs/2404.01341"
     ]
@@ -398,9 +398,9 @@
     "id": 44,
     "title": "Constructing indoor region-based radio map without location labels",
     "image": "assets/publications/paper-44.webp",
-    "kind": "paper",
-    "image_source": "https://arxiv.org/html/2308.16759v2/12areas.png",
-    "image_caption": "Indoor layout divided into ten regions with deployed wireless sensors (Figure 1).",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-44",
+    "image_caption": "AI-generated concept illustration of Constructing indoor region-based radio map without location labels",
     "summary_sources": [
       "https://arxiv.org/abs/2308.16759"
     ]
@@ -409,9 +409,9 @@
     "id": 45,
     "title": "Integrated segmentation and subspace clustering for RSS-based localization under blind calibration",
     "image": "assets/publications/paper-45.webp",
-    "kind": "paper",
-    "image_source": "papers/ILSC_GlobaCom_2022.pdf",
-    "image_caption": "Indoor layout and sensor deployment used for blind-calibration localization (Figure 1).",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-45",
+    "image_caption": "AI-generated concept illustration of Integrated segmentation and subspace clustering for RSS-based localization under blind calibration",
     "summary_sources": [
       "https://doi.org/10.1109/GLOBECOM48099.2022.10001272",
       "papers/ILSC_GlobaCom_2022.pdf"
@@ -421,9 +421,9 @@
     "id": 46,
     "title": "Spectrum efficiency prediction for real-world 5G networks based on drive testing data",
     "image": "assets/publications/paper-46.webp",
-    "kind": "paper",
-    "image_source": "papers/SEP_WCNC_2022.pdf",
-    "image_caption": "Drive-testing scenario in a 5G network with densely deployed base stations and massive MIMO (Figure 1).",
+    "kind": "concept",
+    "image_source": "assets/publications/generation-provenance.json#paper-46",
+    "image_caption": "AI-generated concept illustration of Spectrum efficiency prediction for real-world 5G networks based on drive testing data",
     "summary_sources": [
       "https://doi.org/10.1109/WCNC51071.2022.9771696",
       "papers/SEP_WCNC_2022.pdf"
