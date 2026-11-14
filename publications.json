@@ -10,7 +10,53 @@
     "doi": "10.1109/JIOT.2026.3748010",
     "url": "https://doi.org/10.1109/JIOT.2026.3748010",
     "key": "yang2026paper1",
-    "pages": ""
+    "pages": "",
+    "summary": "Introduces a hierarchical team of language-model agents for adaptive network intrusion detection, allocating analysis effort according to traffic difficulty. Environment awareness and continual memory adaptation help the system respond to changing network conditions.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "C",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 8.9,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Verified in the official 2026 PDF, Computer networks section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "2327-4662",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 8.7,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 12
+    },
+    "image": "assets/publications/paper-1.webp",
+    "image_kind": "concept"
   },
   {
     "id": 2,
@@ -23,7 +69,53 @@
     "doi": "",
     "url": "",
     "key": "xing2026radiomap",
-    "pages": ""
+    "pages": "",
+    "summary": "Investigates the recovery of vehicle trajectories using radio maps in massive MIMO networks.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "B",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 8.4,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Verified in the official 2026 PDF, Interdisciplinary/comprehensive/emerging section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "1524-9050",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 9.1,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 68
+    },
+    "image": "assets/publications/paper-2.webp",
+    "image_kind": "concept"
   },
   {
     "id": 3,
@@ -36,7 +128,53 @@
     "doi": "10.1109/LWC.2026.3747117",
     "url": "https://doi.org/10.1109/LWC.2026.3747117",
     "key": "ren2026paper3",
-    "pages": ""
+    "pages": "",
+    "summary": "Studies geometry-aware prompt tuning to adapt a wireless foundation model for localization across different scenes.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": 3,
+      "cas_year": 2025,
+      "cas_top": false,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 5.5,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "2162-2337",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 5.1,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-3.webp",
+    "image_kind": "concept"
   },
   {
     "id": 4,
@@ -49,7 +187,37 @@
     "doi": "",
     "url": "",
     "key": "xing2026continuous",
-    "pages": ""
+    "pages": "",
+    "summary": "Studies continuous position sensing in massive MIMO networks through adaptive radio map matching.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-4.webp",
+    "image_kind": "concept"
   },
   {
     "id": 5,
@@ -63,7 +231,53 @@
     "url": "https://doi.org/10.1109/TNSE.2026.3747162",
     "key": "xing2026survey",
     "volume": "13",
-    "pages": "12297--12312"
+    "pages": "12297--12312",
+    "summary": "Builds radio maps from unlabeled received-signal-strength sequences using a hidden Markov model and coarse-to-fine location inference. Known indoor layouts and movement continuity provide structure for recovering trajectories without a manual fingerprint survey.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": false,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 7.9,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "2327-4697",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 7.3,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-5.webp",
+    "image_kind": "paper"
   },
   {
     "id": 7,
@@ -76,7 +290,37 @@
     "doi": "10.1109/iswcs69382.2026.11713744",
     "url": "https://doi.org/10.1109/iswcs69382.2026.11713744",
     "key": "zhang2026paper7",
-    "pages": "1--6"
+    "pages": "1--6",
+    "summary": "Studies resource allocation for AI-generated-content services in low-altitude networks, with a focus on user quality of experience.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-7.webp",
+    "image_kind": "concept"
   },
   {
     "id": 8,
@@ -89,7 +333,37 @@
     "doi": "10.1109/iswcs69382.2026.11714166",
     "url": "https://doi.org/10.1109/iswcs69382.2026.11714166",
     "key": "she2026paper8",
-    "pages": "1--6"
+    "pages": "1--6",
+    "summary": "Investigates probabilistic semantic communication for mobile edge computing systems serving low-altitude networks.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-8.webp",
+    "image_kind": "concept"
   },
   {
     "id": 9,
@@ -102,7 +376,53 @@
     "doi": "10.1109/TCE.2026.3717810",
     "url": "https://doi.org/10.1109/TCE.2026.3717810",
     "key": "ren2026paper9",
-    "pages": ""
+    "pages": "",
+    "summary": "Reviews how retrieval-augmented large language models can support decision-making in mobile edge computing. The tutorial organizes design trade-offs and open challenges, and illustrates grounded decision-making through a multiuser computation-offloading case study.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": false,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 10.9,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "0098-3063",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 9.9,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-9.webp",
+    "image_kind": "concept"
   },
   {
     "id": 13,
@@ -117,7 +437,53 @@
     "key": "yuan2026paper13",
     "volume": "72",
     "number": "4",
-    "pages": "10569--10580"
+    "pages": "10569--10580",
+    "summary": "Explores audio large language models as a basis for semantic communication across multiple speech transmission tasks.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": false,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 10.9,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "0098-3063",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 9.9,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-13.webp",
+    "image_kind": "concept"
   },
   {
     "id": 14,
@@ -131,7 +497,53 @@
     "url": "https://doi.org/10.1109/TWC.2026.3713038",
     "key": "xing2026topology",
     "volume": "25",
-    "pages": "20782--20799"
+    "pages": "20782--20799",
+    "summary": "Develops a topology-aware embedding approach for constructing radio maps without labeled location measurements.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "B",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 1,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 10.7,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Verified in the official 2026 PDF, Computer networks section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "1536-1276",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 10.3,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 11
+    },
+    "image": "assets/publications/paper-14.webp",
+    "image_kind": "concept"
   },
   {
     "id": 15,
@@ -144,7 +556,37 @@
     "doi": "10.1109/iswcs69382.2026.11714106",
     "url": "https://doi.org/10.1109/iswcs69382.2026.11714106",
     "key": "xing2026tokens",
-    "pages": "1--6"
+    "pages": "1--6",
+    "summary": "Represents wireless measurements as tokens so that a large language model can be adapted for indoor localization. The RATLoc framework combines lightweight adaptation with coordinate prediction to accommodate variable wireless inputs.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-15.webp",
+    "image_kind": "concept"
   },
   {
     "id": 16,
@@ -159,7 +601,53 @@
     "key": "xing2026constructing",
     "volume": "25",
     "number": "11",
-    "pages": "20150--20167"
+    "pages": "20150--20167",
+    "summary": "Uses spatial and temporal structure in crowdsourced trajectory data to construct radio maps.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "A",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 1,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 9.2,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Verified in the official 2026 PDF, Computer networks section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "1536-1233",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 8.8,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 10
+    },
+    "image": "assets/publications/paper-16.webp",
+    "image_kind": "concept"
   },
   {
     "id": 17,
@@ -172,7 +660,37 @@
     "doi": "",
     "url": "",
     "key": "xing2026integrated",
-    "pages": ""
+    "pages": "",
+    "summary": "Uses a shared channel map as prior knowledge for both wireless sensing and communication. The framework combines map-assisted target tracking with channel estimation to connect the two tasks through a common environmental representation.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment. SPAWC is an independently named workshop; no entry was found under SPAWC or its current/former Signal Processing Advances in Wireless Communications title."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-17.webp",
+    "image_kind": "concept"
   },
   {
     "id": 18,
@@ -186,7 +704,37 @@
     "url": "https://doi.org/10.1007/978-3-032-38062-3_3",
     "key": "wang2026paper18",
     "volume": "16879",
-    "pages": "24--34"
+    "pages": "24--34",
+    "summary": "Combines attribute-conditioned feature alignment and history-aware loss weighting to reduce subgroup disparities when adapting medical segmentation foundation models. The design aims to preserve anatomical information while reducing sensitivity to acquisition-related variation.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "B",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Verified in the official 2026 PDF, Interdisciplinary/comprehensive/emerging section. Matched to MICCAI, listed as International Conference on Medical Image Computing and Computer-Assisted Intervention. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 71
+    },
+    "image": "assets/publications/paper-18.webp",
+    "image_kind": "concept"
   },
   {
     "id": 19,
@@ -201,7 +749,53 @@
     "key": "liu2026paper19",
     "volume": "75",
     "number": "10",
-    "pages": "24877--24890"
+    "pages": "24877--24890",
+    "summary": "Studies energy-efficient mobile edge computing across a network of satellites, UAVs, and ground users. Joint optimization of user association, UAV trajectories, computation offloading, processing resources, and transmission power coordinates communication and computation.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": false,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 7.1,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "0018-9545",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 7.5,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-19.webp",
+    "image_kind": "paper"
   },
   {
     "id": 21,
@@ -216,7 +810,53 @@
     "key": "zhang2026paper21",
     "volume": "72",
     "number": "3",
-    "pages": "6191--6201"
+    "pages": "6191--6201",
+    "summary": "Jointly optimizes movable-antenna positions and transmit beamforming for vehicular networks with uncertain channel information. The robust formulation targets worst-case communication performance while accounting for power and antenna-motion constraints.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": false,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 10.9,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "0098-3063",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 9.9,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-21.webp",
+    "image_kind": "paper"
   },
   {
     "id": 22,
@@ -229,7 +869,43 @@
     "doi": "",
     "url": "",
     "key": "guo2026paper22",
-    "pages": ""
+    "pages": "",
+    "summary": "Studies an efficient federated large language model framework for personalized recommendation.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "T1",
+      "ccf_year": 2025,
+      "ccf_status": "verified_official",
+      "cas": null,
+      "cas_year": 2025,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_listed_in_verified_table",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "unverified",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm"
+        ],
+        "journal_identity": [
+          "https://www.jos.org.cn/jos/site/menu/20071206155225001?id=20071206155225001"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/ccftjgjxskwml/"
+        ]
+      },
+      "notes": [
+        "No matching title, Chinese title, ISSN 1000-9825, or Ruanjian Xuebao entry found in the verified 2025 CAS table; absence is limited to this source.",
+        "This is 软件学报, ISSN 1000-9825, not Journal of Software: Evolution and Process or other English-language similarly named journals. No Clarivate JIF verified. Domestic CNKI/CSTPCD impact factors are not substituted for JIF.",
+        "软件学报 is item 15 in the T1 list officially released on 2025-04-16. This is a separate directory from the international A/B/C recommendation list; CCF explicitly states that the two lists are not equivalent. Display CCF T1 (2025), never CCF A."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF computing-field high-quality science and technology journals (T1/T2/T3)",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-22.webp",
+    "image_kind": "concept"
   },
   {
     "id": 23,
@@ -244,7 +920,53 @@
     "key": "xing2026blind",
     "volume": "13",
     "number": "12",
-    "pages": "27995--28006"
+    "pages": "27995--28006",
+    "summary": "Constructs radio maps from unlabeled channel measurements by learning a low-dimensional representation that preserves their spatial topology. Alignment with geographic structure connects the learned representation to physical locations.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "C",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 8.9,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Verified in the official 2026 PDF, Computer networks section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "2327-4662",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 8.7,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 12
+    },
+    "image": "assets/publications/paper-23.webp",
+    "image_kind": "concept"
   },
   {
     "id": 24,
@@ -259,7 +981,53 @@
     "key": "xing2026wireless",
     "volume": "72",
     "number": "3",
-    "pages": "6145--6160"
+    "pages": "6145--6160",
+    "summary": "Surveys recent wireless human activity recognition methods and their practical challenges. It also introduces a zero-shot large-language-model framework that interprets wireless measurements using physical activity knowledge and temporal reasoning.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": false,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 10.9,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "0098-3063",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 9.9,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-24.webp",
+    "image_kind": "concept"
   },
   {
     "id": 26,
@@ -273,7 +1041,53 @@
     "url": "https://doi.org/10.1109/tip.2026.3663857",
     "key": "xing2026temporal",
     "volume": "35",
-    "pages": "2182--2197"
+    "pages": "2182--2197",
+    "summary": "Uses large language models to extract temporal visual semantics and guide subspace clustering of human motion. A feedback loop couples segmentation with representation learning to keep motion groups temporally consistent.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "A",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 1,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 13.7,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Verified in the official 2026 PDF, Computer graphics and multimedia section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "1057-7149",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 15.3,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 44
+    },
+    "image": "assets/publications/paper-26.webp",
+    "image_kind": "paper"
   },
   {
     "id": 27,
@@ -287,7 +1101,48 @@
     "url": "https://doi.org/10.1016/j.knosys.2026.115999",
     "key": "XING2026115999",
     "volume": "343",
-    "pages": "115999"
+    "pages": "115999",
+    "summary": "Reorders graph similarity matrices to expose block-diagonal cluster structure, then identifies clusters with a greedy partition algorithm. The method combines density-aware graph traversal with theoretical guarantees under separated-cluster conditions.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "C",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 1,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 7.6,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_institutional_and_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://topj.lib.whu.edu.cn/show.asp?cat=sci&id=4139",
+          "https://www.sciencedirect.com/journal/knowledge-based-systems/about/policies"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "Wuhan University Library explicitly labels 7.6 as the 2024 JIF; Elsevier journal page confirms the 7.6 value. Uniform 2024 JIF is used for comparability.",
+        "Verified in the official 2026 PDF, Artificial intelligence section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "0950-7051",
+      "impact_factor_release_year": 2025,
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 55
+    },
+    "image": "assets/publications/paper-27.webp",
+    "image_kind": "paper"
   },
   {
     "id": 28,
@@ -300,7 +1155,37 @@
     "doi": "10.1109/icc59461.2026.11588289",
     "url": "https://doi.org/10.1109/icc59461.2026.11588289",
     "key": "xing2026physical",
-    "pages": "1--6"
+    "pages": "1--6",
+    "summary": "Learns a two-dimensional physical embedding of unlabeled CSI by combining angle-of-arrival, time-of-arrival, and power–angle–delay similarity. The embedding preserves spatial topology to support radio-map construction without location labels.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "C",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Verified in the official 2026 PDF, Computer networks section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 15
+    },
+    "image": "assets/publications/paper-28.webp",
+    "image_kind": "concept"
   },
   {
     "id": 30,
@@ -314,7 +1199,53 @@
     "url": "https://doi.org/10.1109/TSP.2025.3620332",
     "key": "ZheChe:J25",
     "volume": "73",
-    "pages": "4539--4555"
+    "pages": "4539--4555",
+    "summary": "Infers measurement locations and angular power maps from unlabeled massive-MIMO CSI using a hidden Markov model of propagation and mobility. The work also analyzes localization limits and uses reconstructed maps for channel prediction.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Engineering and Technology",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 5.8,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "1053-587X",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 5.5,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-30.webp",
+    "image_kind": "paper"
   },
   {
     "id": 31,
@@ -329,7 +1260,53 @@
     "key": "Trajmat:J25",
     "volume": "26",
     "number": "4",
-    "pages": "4647--4660"
+    "pages": "4647--4660",
+    "summary": "Reconstructs vehicle trajectories from RSS measurements while respecting road-network connectivity and motion constraints. An HMM-based embedding combines signal propagation with temporal dependencies, aided by speed-constrained initialization.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "B",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 8.4,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Verified in the official 2026 PDF, Interdisciplinary/comprehensive/emerging section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "1524-9050",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 9.1,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 68
+    },
+    "image": "assets/publications/paper-31.webp",
+    "image_kind": "paper"
   },
   {
     "id": 32,
@@ -343,7 +1320,37 @@
     "url": "https://doi.org/10.1007/978-3-032-04971-1_8",
     "key": "zhang2025paper32",
     "volume": "15964",
-    "pages": "78--88"
+    "pages": "78--88",
+    "summary": "Generates cervical-cancer reports from multi-sequence 3D MRI with a hierarchy of diagnostic and staging experts. Chain-of-thought reasoning and cross-stage consistency checks connect image findings with FIGO staging.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "B",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Verified in the official 2026 PDF, Interdisciplinary/comprehensive/emerging section. Matched to MICCAI, listed as International Conference on Medical Image Computing and Computer-Assisted Intervention. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 71
+    },
+    "image": "assets/publications/paper-32.webp",
+    "image_kind": "concept"
   },
   {
     "id": 34,
@@ -356,7 +1363,37 @@
     "doi": "10.1109/GLOBECOM59602.2025.11432665",
     "url": "https://doi.org/10.1109/GLOBECOM59602.2025.11432665",
     "key": "xing2025unsupervised",
-    "pages": "4355--4360"
+    "pages": "4355--4360",
+    "summary": "Jointly models channel power, delay, angle, and user motion to recover indoor trajectories without location labels. The HMM framework distinguishes LOS and NLOS propagation when building a radio map.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "C",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Verified in the official 2026 PDF, Computer networks section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 15
+    },
+    "image": "assets/publications/paper-34.webp",
+    "image_kind": "paper"
   },
   {
     "id": 35,
@@ -369,7 +1406,37 @@
     "doi": "10.1109/ICCCWorkshops67136.2025.11148121",
     "url": "https://doi.org/10.1109/ICCCWorkshops67136.2025.11148121",
     "key": "xing2025paper35",
-    "pages": "1--6"
+    "pages": "1--6",
+    "summary": "Uses engineered MIMO-OFDM channel features and hidden Markov modeling to recover trajectories in both line-of-sight and non-line-of-sight regions.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment. This is ICCC Workshops, not IEEE ICC or ICCCN. Do not inherit any main-conference grade; companion workshops are explicitly outside the directory scope."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-35.webp",
+    "image_kind": "concept"
   },
   {
     "id": 36,
@@ -382,7 +1449,37 @@
     "doi": "10.1109/icccworkshops67136.2025.11148227",
     "url": "https://doi.org/10.1109/icccworkshops67136.2025.11148227",
     "key": "chu2025paper36",
-    "pages": "1--6"
+    "pages": "1--6",
+    "summary": "Studies Bayesian transmission and channel knowledge map reconstruction for low-Earth-orbit satellite–terrestrial communication.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment. This is ICCC Workshops, not IEEE ICC or ICCCN. Do not inherit any main-conference grade; companion workshops are explicitly outside the directory scope."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-36.webp",
+    "image_kind": "concept"
   },
   {
     "id": 37,
@@ -395,7 +1492,37 @@
     "doi": "10.1109/icc52391.2025.11160925",
     "url": "https://doi.org/10.1109/icc52391.2025.11160925",
     "key": "XinChe:C25",
-    "pages": "2309--2314"
+    "pages": "2309--2314",
+    "summary": "Builds angular power maps from massive-MIMO measurements without location labels. A hidden Markov model links temporal CSI variation to the mobile trajectory, providing inferred locations for map construction and channel prediction.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "C",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Verified in the official 2026 PDF, Computer networks section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 15
+    },
+    "image": "assets/publications/paper-37.webp",
+    "image_kind": "concept"
   },
   {
     "id": 38,
@@ -409,7 +1536,56 @@
     "url": "https://doi.org/10.1016/j.eswa.2025.127767",
     "key": "xing2023blockdiagonal",
     "volume": "285",
-    "pages": "127767"
+    "pages": "127767",
+    "summary": "Exposes subspace clusters by permuting the similarity matrix into block-diagonal form and identifying its diagonal blocks. The approach combines density-based traversal with a greedy segmentation rule.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "C",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 1,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 7.5,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_institutional_and_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://topj.lib.whu.edu.cn/show.asp?cat=zk&id=3237",
+          "https://iris.urv.cat/en/ipublic/source/11076",
+          "https://www.sciencedirect.com/journal/expert-systems-with-applications/vol/180/suppl/C"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "Wuhan University Library and Universitat Rovira i Virgili explicitly label 7.5 as the 2024 WoS JIF; Elsevier journal page confirms the 7.5 value. Uniform 2024 JIF is used for comparability.",
+        "Verified in the official 2026 PDF, Artificial intelligence section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "0957-4174",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 9.4,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://iris.urv.cat/en/ipublic/source/11076",
+        "provenance": "institutional research information system"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 54
+    },
+    "image": "assets/publications/paper-38.webp",
+    "image_kind": "paper"
   },
   {
     "id": 39,
@@ -424,7 +1600,53 @@
     "key": "xing2024calibration",
     "volume": "12",
     "number": "5",
-    "pages": "5449--5461"
+    "pages": "5449--5461",
+    "summary": "Builds calibration-free indoor radio maps from RSS sequences by tracing movement through known regions. Signal-subspace clustering and regional location tagging recover measurement positions without inertial sensors or manually supplied labels.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "C",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 8.9,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Verified in the official 2026 PDF, Computer networks section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "2327-4662",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 8.7,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 12
+    },
+    "image": "assets/publications/paper-39.webp",
+    "image_kind": "concept"
   },
   {
     "id": 40,
@@ -438,7 +1660,53 @@
     "url": "https://doi.org/10.1109/TIP.2024.3445735",
     "key": "ZheHMS:J24",
     "volume": "33",
-    "pages": "5783--5797"
+    "pages": "5783--5797",
+    "summary": "Jointly segments and completes incomplete human-motion sequences with a temporally constrained subspace-variety model. Alternating subspace learning and motion assignment exploit temporal consistency, while missing entries are reconstructed from the learned motion subspaces.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "A",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 1,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 13.7,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Verified in the official 2026 PDF, Computer graphics and multimedia section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "1057-7149",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 15.3,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 44
+    },
+    "image": "assets/publications/paper-40.webp",
+    "image_kind": "concept"
   },
   {
     "id": 41,
@@ -453,7 +1721,53 @@
     "key": "xing2024block",
     "volume": "36",
     "number": "11",
-    "pages": "5709--5722"
+    "pages": "5709--5722",
+    "summary": "Guides DBSCAN-style traversal with the block-diagonal structure of a learned similarity graph. Ordering followed by split-and-refine partitioning identifies clusters while addressing sensitivity to density parameters and high-dimensional data.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "A",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": 1,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Computer Science",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 10.4,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Verified in the official 2026 PDF, Databases/data mining/content retrieval section."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "1041-4347",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 11.6,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 32
+    },
+    "image": "assets/publications/paper-41.webp",
+    "image_kind": "paper"
   },
   {
     "id": 42,
@@ -466,7 +1780,37 @@
     "doi": "10.1109/icassp48485.2024.10447790",
     "url": "https://doi.org/10.1109/icassp48485.2024.10447790",
     "key": "XinChe:C24",
-    "pages": "7060--7064"
+    "pages": "7060--7064",
+    "summary": "Recovers trajectories of non-cooperative devices through hidden Markov modeling of received-signal-strength measurements.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "B",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Verified in the official 2026 PDF, Computer graphics and multimedia section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 48
+    },
+    "image": "assets/publications/paper-42.webp",
+    "image_kind": "concept"
   },
   {
     "id": 43,
@@ -481,7 +1825,37 @@
     "key": "xing2024unsupervised",
     "volume": "38",
     "number": "6",
-    "pages": "6270--6278"
+    "pages": "6270--6278",
+    "summary": "Segments video without a training stage by first splitting it into semantically consistent action units, or actoms. A spatio-temporal merging step reunites units representing the same action, balancing segmentation quality and computational cost.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "A",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Verified in the official 2026 PDF, Artificial intelligence section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 57
+    },
+    "image": "assets/publications/paper-43.webp",
+    "image_kind": "concept"
   },
   {
     "id": 44,
@@ -495,7 +1869,53 @@
     "url": "https://doi.org/10.1109/TSP.2024.3368769",
     "key": "XingChen:J23ar",
     "volume": "72",
-    "pages": "2512--2526"
+    "pages": "2512--2526",
+    "summary": "Constructs region-based indoor radio maps from RSS measurements collected without location labels. Sequential subspace clustering groups measurements, and graph-based matching associates the resulting clusters with physical regions.",
+    "metrics": {
+      "kind": "journal",
+      "ccf": "not_listed",
+      "ccf_year": 2026,
+      "ccf_status": "not_listed",
+      "cas": 2,
+      "cas_year": 2025,
+      "cas_top": true,
+      "cas_category": "Engineering and Technology",
+      "cas_status": "verified_institutional_reproduction",
+      "impact_factor": 5.8,
+      "impact_factor_year": 2024,
+      "impact_factor_status": "verified_publisher",
+      "source_urls": {
+        "cas": [
+          "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+          "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+        ],
+        "impact_factor": [
+          "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+        ],
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+        "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+        "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+      ],
+      "verified_on": "2026-11-14",
+      "issn": "1053-587X",
+      "impact_factor_release_year": 2025,
+      "newer_verified_impact_factor": {
+        "value": 5.5,
+        "year": 2025,
+        "release_year": 2026,
+        "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+      },
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": null
+    },
+    "image": "assets/publications/paper-44.webp",
+    "image_kind": "paper"
   },
   {
     "id": 45,
@@ -509,7 +1929,37 @@
     "url": "https://doi.org/10.1109/GLOBECOM48099.2022.10001272",
     "pdf": "papers/ILSC_GlobaCom_2022.pdf",
     "key": "Xing:C22",
-    "pages": "5360--5365"
+    "pages": "5360--5365",
+    "summary": "Reduces indoor-localization calibration effort by jointly segmenting and clustering blindly collected RSS sequences. The method exploits collection order and region-specific signal subspaces to recover useful location regions without recording the device route.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "C",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Verified in the official 2026 PDF, Computer networks section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 15
+    },
+    "image": "assets/publications/paper-45.webp",
+    "image_kind": "paper"
   },
   {
     "id": 46,
@@ -523,6 +1973,36 @@
     "url": "https://doi.org/10.1109/wcnc51071.2022.9771696",
     "pdf": "papers/SEP_WCNC_2022.pdf",
     "key": "XinChe:C22",
-    "pages": "2136--2141"
+    "pages": "2136--2141",
+    "summary": "Predicts spectrum efficiency in real 5G networks from drive-test RSRP measurements using model-assisted learning. Joint interference estimation and classification-assisted prediction address information that signal-strength measurements alone do not capture.",
+    "metrics": {
+      "kind": "conference",
+      "ccf": "C",
+      "ccf_year": 2026,
+      "ccf_status": "verified_official",
+      "cas": null,
+      "cas_year": null,
+      "cas_top": null,
+      "cas_category": null,
+      "cas_status": "not_applicable",
+      "impact_factor": null,
+      "impact_factor_year": null,
+      "impact_factor_status": "not_applicable",
+      "source_urls": {
+        "ccf": [
+          "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+          "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+        ]
+      },
+      "notes": [
+        "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+        "Verified in the official 2026 PDF, Computer networks section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+      ],
+      "verified_on": "2026-11-14",
+      "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+      "ccf_source_page": 15
+    },
+    "image": "assets/publications/paper-46.webp",
+    "image_kind": "paper"
   }
 ]

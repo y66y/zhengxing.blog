@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "image": "assets/publications/paper-1.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Adaptive network intrusion detection through a hierarchy of collaborating software agents. Depict incoming network connections as thin blue streams entering three stepped tiers of abstract analysis modules, with a few orange anomalous packets separated toward a small shield and normal teal packets continuing. This is a high-level conceptual illustration, not a reproduction of an algorithm or exact model architecture. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 2,
+    "image": "assets/publications/paper-2.webp",
+    "prompt": "Create a polished square 1:1 scientific concept illustration thumbnail for an academic publication entitled 'Radiomap-Assisted Vehicle Trajectory Retrieving in Massive MIMO Networks'. Minimal crisp technical editorial illustration on a very pale blue-white background, restrained navy, cyan, teal and orange palette. Isometric city intersection with a single small vehicle, a series of bright location dots tracing its past path along the roads, a massive MIMO base station array to one side projecting subtle translucent radio wave fans, and a faint spatial radio heatmap beneath the roads. Clear visual hierarchy and generous breathing room, readable at 150 pixels. No text, no letters, no equations, no charts or fabricated measurements, no logos, no border. This is a conceptual visual about recovering a vehicle's route from a radio map, not an experimental result. Output must be square.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 3,
+    "image": "assets/publications/paper-3.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Geometry-aware adaptation of a wireless foundation model for localization across different indoor scenes. Depict two distinct simplified floorplans with wireless signal contours and a small orange position marker, connected through a central abstract navy learning module and subtle geometric paths. Convey transfer across environments, without specifying the actual paper architecture. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 4,
+    "image": "assets/publications/paper-4.webp",
+    "prompt": "Create a square 1:1 scientific concept illustration for the paper 'Continuous Location Sensing via Adaptive Radio Map Matching in Massive MIMO Networks'. Clean refined technical editorial illustration, white to very pale blue background, navy and teal linework with a warm orange target. A top-down simplified street grid with several wireless access towers, one orange location marker moving along a continuous teal curved track with four successive positions, surrounded by subtle concentric radio contours. A small translucent heatmap inset blends into the street grid to suggest adaptive matching over time. Sparse, elegant and visually distinct from an isometric city view. Readable as a 150-pixel academic homepage thumbnail. No text, equations, numeric axes, logos, decorative title or claimed data. Conceptual only, not a result. Square.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 7,
+    "image": "assets/publications/paper-7.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Quality-of-experience-aware resource allocation for generative AI services in low-altitude aerial networks. Depict a clean low-rise city, a small aerial drone, an edge-computing node, and compact abstract generative-media tiles connected by wireless arcs; softly balanced allocations shown by differing line weights. Conceptual illustration only, no performance claims. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 8,
+    "image": "assets/publications/paper-8.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Probabilistic semantic communication supporting mobile edge computing in low-altitude aerial networks. Depict a drone exchanging a sparse set of meaningful abstract symbols with a small edge server above a simple city block; a dense signal stream becomes fewer selected teal and orange symbols. Keep probability implicit through varying translucent tokens, not equations. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 9,
+    "image": "assets/publications/paper-9.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Retrieval-augmented language models supporting decisions in mobile edge computing. Depict a few nearby mobile devices and a compact edge server, connected to a central abstract intelligence module that draws relevant document cards from a small library. A clean looping connection suggests retrieval informing a computational decision, without specifying the real architecture. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 13,
+    "image": "assets/publications/paper-13.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: An audio language model supporting semantic communication for multiple speech tasks. Depict a speech waveform entering a compact abstract latent token module, passing through a wireless channel, then branching into a microphone symbol, a reconstructed waveform and two overlapping speech bubbles. No writing inside any bubbles; the image is conceptual, not an exact model diagram. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 14,
+    "image": "assets/publications/paper-14.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Label-free radio map construction through topology-aware embeddings. Depict a delicate cloud of wireless measurement points forming a connected manifold, morphing into a simple indoor floor plan with smooth teal radio contours. A few orange anchor-like highlights indicate spatial correspondences, with no numeric locations, formulas or measured results. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 15,
+    "image": "assets/publications/paper-15.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Wireless measurements treated as tokens for indoor localization with a large language model. Depict an indoor wireless access point sending a waveform that becomes a neat sequence of small rounded token tiles, enters a compact abstract learning module, and emerges as an orange location marker on a minimal floor plan. Conceptual pipeline, not the exact architecture. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 16,
+    "image": "assets/publications/paper-16.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Radio map construction from spatial and temporal structure in crowdsourced movement trajectories. Depict a minimal indoor floorplan seen obliquely, several thin curving pedestrian paths made from sequenced dots, and a translucent teal radio map forming above them. The paths gradually align into a coherent spatial pattern. No fabricated data plots or numeric results. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 17,
+    "image": "assets/publications/paper-17.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Integrated sensing and communication using one shared environmental channel map. Depict a translucent map grid at center with a few simple buildings, a small moving vehicle being sensed along an orange trajectory on one side, and a wireless base station communicating with a mobile device on the other. Both operations connect visually to the same teal environmental map. Conceptual and non-specific. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 18,
+    "image": "assets/publications/paper-18.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Anatomy-aware medical image segmentation with attention to fair performance across groups. Depict a small set of stylized head-and-neck medical scan panels, each with a consistent smooth teal anatomical segmentation contour, connected to one abstract learning module. Use symbolic scan imagery rather than actual patient data; subtle varied panel borders suggest different acquisition contexts. No diagnostic claims, performance chart, identities or exact architecture. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 22,
+    "image": "assets/publications/paper-22.webp",
+    "prompt": "Create a polished square 1:1 conceptual scientific illustration thumbnail for 'An Efficient Federated Large Language Model Recommendation Framework for Enhanced Personalization'. Crisp minimal academic editorial diagram illustration, white/pale blue background, navy teal blue and subtle amber accents. At center a rounded abstract neural language-model hub, around it three different user devices each with a small local neural network and personalized recommendation cards represented by differently colored small tiles. Thin circular two-way arrows exchange only abstract model parameter dots; tiny lock symbols at the local devices convey data staying local. No people portraits. Generous space, harmonious design readable at 150 pixels, no text, numbers, letters, logos or performance charts. This is a concept illustration, not an exact architecture. Square aspect ratio.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 23,
+    "image": "assets/publications/paper-23.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Blind radio map construction by topology-guided manifold learning. Depict an abstract smooth ribbon of connected navy and teal signal points gently unfolding into a two-dimensional indoor radio map, with preserved neighboring links visible through the transition. The destination is a minimal floor plan with translucent signal contours. Emphasize unlabeled structural correspondence, without supervised landmark labels or exact algorithms. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 24,
+    "image": "assets/publications/paper-24.webp",
+    "prompt": "Use case: scientific-educational. Asset type: academic publication website thumbnail. Create a polished square 1:1 scientific concept illustration with generous whitespace. Minimalist technical editorial style, clean fine-line forms and restrained subtle depth, white and pale blue background, navy and teal with tiny orange accents. Subject: Wireless human activity recognition with zero-shot language-model reasoning. Depict a simple room with three small stylized human silhouettes representing standing, walking and sitting, fine wireless wave arcs crossing the scene, and an abstract reasoning module connected to a temporal sequence of signal tiles. Present a conceptual overview of signal-based activity understanding, not measured results or a precise algorithm. Do not include any text, letters, digits, labels, equations, axes, charts, logos, watermarks or borders. Do not invent experimental results. Clear centered composition, readable at thumbnail size, elegant and visually distinct. This is an AI-generated concept illustration, not a figure from the paper.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 28,
+    "image": "assets/publications/paper-28.webp",
+    "prompt": "Use case: scientific-educational. Asset type: square 1:1 thumbnail for an academic publication card. Subject: Physical embedding for radio-map construction from wireless channel measurements. Scene: A cloud of sparse teal and navy wireless signal points on the left flows through a subtle curved arrow into a clean two-dimensional floor-plan map on the right. Map points form a coherent orange route around a few simple walls, with small angular radio-wave arcs suggesting geometric propagation cues. Conceptual overview, no claimed exact network architecture. Style: polished minimalist technical editorial bitmap illustration, white background, pale blue surfaces, navy outlines, restrained teal and orange accents, crisp clean geometry, generous whitespace, central composition, strong readability at small size. No title, no text, no lettering, no logos, no watermark. Do not depict exact model architecture, real measured plots, numerical results, performance comparisons, or purported experimental evidence. This is an explicitly AI-generated conceptual illustration.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 32,
+    "image": "assets/publications/paper-32.webp",
+    "prompt": "Use case: scientific-educational. Asset type: square 1:1 thumbnail for an academic publication card. Subject: Research on automated cervical cancer report generation from multi-sequence MRI. Scene: An abstract stack of three stylized pale-blue MRI image tiles of pelvic anatomy at upper left, clearly diagrammatic and not actual patient scans, connected with fine lines to three small distinct expert-node circles and a clean report document at lower right. Suggest image analysis, reasoning, and consistency checking without displaying a specific diagnosis, stage, medical advice, or real patient data. Style: polished minimalist technical editorial bitmap illustration, white background, pale blue surfaces, navy outlines, restrained teal and orange accents, crisp clean geometry, generous whitespace, central composition, strong readability at small size. No title, no text, no lettering, no logos, no watermark. Do not depict exact model architecture, real measured plots, numerical results, performance comparisons, or purported experimental evidence. This is an explicitly AI-generated conceptual illustration.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 35,
+    "image": "assets/publications/paper-35.webp",
+    "prompt": "Use case: scientific-educational. Asset type: square 1:1 thumbnail for an academic publication card. Subject: Wireless trajectory recovery from MIMO-OFDM features in LOS and NLOS regions. Scene: An abstract indoor floor plan with a few navy partitions, a small teal mobile-device marker following an orange continuous trajectory, a compact antenna array at the side, one straight dotted radio path and one bent reflected dotted path. A few translucent stacked signal planes suggest time-varying wireless features. Conceptual illustration only. Style: polished minimalist technical editorial bitmap illustration, white background, pale blue surfaces, navy outlines, restrained teal and orange accents, crisp clean geometry, generous whitespace, central composition, strong readability at small size. No title, no text, no lettering, no logos, no watermark. Do not depict exact model architecture, real measured plots, numerical results, performance comparisons, or purported experimental evidence. This is an explicitly AI-generated conceptual illustration.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 36,
+    "image": "assets/publications/paper-36.webp",
+    "prompt": "Use case: scientific-educational. Asset type: square 1:1 thumbnail for an academic publication card. Subject: Bayesian channel-knowledge map reconstruction for LEO satellite\u2013terrestrial communication. Scene: A small low Earth orbit satellite above a gently curved pale blue Earth horizon, communicating with two modest ground terminals. A translucent ground map with soft teal coverage contours and a few orange measurement points suggests uncertain radio-channel reconstruction. Conceptual scientific illustration, no numbers or measured data. Style: polished minimalist technical editorial bitmap illustration, white background, pale blue surfaces, navy outlines, restrained teal and orange accents, crisp clean geometry, generous whitespace, central composition, strong readability at small size. No title, no text, no lettering, no logos, no watermark. Do not depict exact model architecture, real measured plots, numerical results, performance comparisons, or purported experimental evidence. This is an explicitly AI-generated conceptual illustration.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 37,
+    "image": "assets/publications/paper-37.webp",
+    "prompt": "Use case: scientific-educational. Asset type: square 1:1 thumbnail for an academic publication card. Subject: Constructing angular power maps from massive MIMO measurements without location labels. Scene: A compact multi-element antenna array beside a minimalist urban block, sending subtle directional teal radio arcs toward an orange mobile-device path. A translucent angular fan-shaped map in the foreground hints at directional channel power with smooth colored sectors. Pure concept illustration, no numeric chart or actual measured results. Style: polished minimalist technical editorial bitmap illustration, white background, pale blue surfaces, navy outlines, restrained teal and orange accents, crisp clean geometry, generous whitespace, central composition, strong readability at small size. No title, no text, no lettering, no logos, no watermark. Do not depict exact model architecture, real measured plots, numerical results, performance comparisons, or purported experimental evidence. This is an explicitly AI-generated conceptual illustration.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 39,
+    "image": "assets/publications/paper-39.webp",
+    "prompt": "Use case: scientific-educational. Asset type: square 1:1 thumbnail for an academic publication card. Subject: Calibration-free indoor localization through regional channel tracing. Scene: Top-down abstract indoor floor plan divided into a few connected pale-blue rooms, teal radio beacons, and a continuous orange mobile-device path connecting soft regional clusters of signal observations. Suggest tracing movement across regions without manual calibration. Conceptual illustration only. Style: polished minimalist technical editorial bitmap illustration, white background, pale blue surfaces, navy outlines, restrained teal and orange accents, crisp clean geometry, generous whitespace, central composition, strong readability at small size. No title, no text, no lettering, no logos, no watermark. Do not depict exact model architecture, real measured plots, numerical results, performance comparisons, or purported experimental evidence. This is an explicitly AI-generated conceptual illustration.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 40,
+    "image": "assets/publications/paper-40.webp",
+    "prompt": "Use case: scientific-educational. Asset type: square 1:1 thumbnail for an academic publication card. Subject: Segmentation and completion of human motion using temporally learned subspaces. Scene: A graceful left-to-right sequence of five simplified human stick-figure poses, all anatomically neutral and consistent. Some joints on the middle pose appear as faint dotted gaps, transitioning to a completed teal pose. Pale-blue temporal bands and small separated groups of dots suggest motion segmentation and learned subspaces. Conceptual scientific illustration only. Style: polished minimalist technical editorial bitmap illustration, white background, pale blue surfaces, navy outlines, restrained teal and orange accents, crisp clean geometry, generous whitespace, central composition, strong readability at small size. No title, no text, no lettering, no logos, no watermark. Do not depict exact model architecture, real measured plots, numerical results, performance comparisons, or purported experimental evidence. This is an explicitly AI-generated conceptual illustration.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 42,
+    "image": "assets/publications/paper-42.webp",
+    "prompt": "Use case: scientific-educational. Asset type: square 1:1 thumbnail for an academic publication card. Subject: Recovering non-cooperative device trajectories from received-signal-strength observations. Scene: A simple floor-plan-like plane with three small teal receiver beacons observing an unlabelled mobile-device marker. Scattered pale-blue signal observations align into a continuous orange inferred trajectory, with sparse dotted time connections. Focus on temporal wireless localization, no surveillance people or fake model architecture. Style: polished minimalist technical editorial bitmap illustration, white background, pale blue surfaces, navy outlines, restrained teal and orange accents, crisp clean geometry, generous whitespace, central composition, strong readability at small size. No title, no text, no lettering, no logos, no watermark. Do not depict exact model architecture, real measured plots, numerical results, performance comparisons, or purported experimental evidence. This is an explicitly AI-generated conceptual illustration.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  },
+  {
+    "id": 43,
+    "image": "assets/publications/paper-43.webp",
+    "prompt": "Use case: scientific-educational. Asset type: square 1:1 thumbnail for an academic publication card. Subject: Unsupervised action segmentation via semantically consistent action units. Scene: Three clean horizontal filmstrip rows each containing several simple human stick-figure poses doing everyday motions such as walking, bending, and raising one arm, rendered as neutral scientific pose silhouettes. Pale blue, orange, and teal bands group consecutive related poses into coherent action segments, with subtle merging arrows beneath. Illustration conveys dividing a motion sequence into meaningful units and merging related units. Style: polished minimalist technical editorial bitmap illustration, white background, pale blue surfaces, navy outlines, restrained teal and orange accents, crisp clean geometry, generous whitespace, central composition, strong readability at small size. No title, no text, no lettering, no logos, no watermark. Do not depict exact model architecture, real measured plots, numerical results, performance comparisons, or purported experimental evidence. This is an explicitly AI-generated conceptual illustration.",
+    "mode": "OpenAI built-in image generation",
+    "purpose": "Concept illustration; not a figure or result from the paper."
+  }
+]

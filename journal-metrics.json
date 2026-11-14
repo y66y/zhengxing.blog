@@ -1,0 +1,862 @@
+{
+  "IEEE Internet of Things Journal": {
+    "kind": "journal",
+    "ccf": "C",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": 2,
+    "cas_year": 2025,
+    "cas_top": true,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 8.9,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+      "Verified in the official 2026 PDF, Computer networks section."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "2327-4662",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 8.7,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 12
+  },
+  "IEEE Transactions on Intelligent Transportation Systems": {
+    "kind": "journal",
+    "ccf": "B",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": 2,
+    "cas_year": 2025,
+    "cas_top": true,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 8.4,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+      "Verified in the official 2026 PDF, Interdisciplinary/comprehensive/emerging section."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "1524-9050",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 9.1,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 68
+  },
+  "IEEE Wireless Communications Letters": {
+    "kind": "journal",
+    "ccf": "not_listed",
+    "ccf_year": 2026,
+    "ccf_status": "not_listed",
+    "cas": 3,
+    "cas_year": 2025,
+    "cas_top": false,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 5.5,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+      "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "2162-2337",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 5.1,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": null
+  },
+  "IEEE International Conference on Computing, Communication, Perception and Quantum Technology": {
+    "kind": "conference",
+    "ccf": "not_listed",
+    "ccf_year": 2026,
+    "ccf_status": "not_listed",
+    "cas": null,
+    "cas_year": null,
+    "cas_top": null,
+    "cas_category": null,
+    "cas_status": "not_applicable",
+    "impact_factor": null,
+    "impact_factor_year": null,
+    "impact_factor_status": "not_applicable",
+    "source_urls": {
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+      "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+    ],
+    "verified_on": "2026-11-14",
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": null
+  },
+  "IEEE Transactions on Network Science and Engineering": {
+    "kind": "journal",
+    "ccf": "not_listed",
+    "ccf_year": 2026,
+    "ccf_status": "not_listed",
+    "cas": 2,
+    "cas_year": 2025,
+    "cas_top": false,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 7.9,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+      "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "2327-4697",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 7.3,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": null
+  },
+  "International Symposium on Wireless Communication Systems": {
+    "kind": "conference",
+    "ccf": "not_listed",
+    "ccf_year": 2026,
+    "ccf_status": "not_listed",
+    "cas": null,
+    "cas_year": null,
+    "cas_top": null,
+    "cas_category": null,
+    "cas_status": "not_applicable",
+    "impact_factor": null,
+    "impact_factor_year": null,
+    "impact_factor_status": "not_applicable",
+    "source_urls": {
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+      "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+    ],
+    "verified_on": "2026-11-14",
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": null
+  },
+  "IEEE Transactions on Consumer Electronics": {
+    "kind": "journal",
+    "ccf": "not_listed",
+    "ccf_year": 2026,
+    "ccf_status": "not_listed",
+    "cas": 2,
+    "cas_year": 2025,
+    "cas_top": false,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 10.9,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+      "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "0098-3063",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 9.9,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": null
+  },
+  "IEEE Transactions on Wireless Communications": {
+    "kind": "journal",
+    "ccf": "B",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": 1,
+    "cas_year": 2025,
+    "cas_top": true,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 10.7,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+      "Verified in the official 2026 PDF, Computer networks section."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "1536-1276",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 10.3,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 11
+  },
+  "IEEE Transactions on Mobile Computing": {
+    "kind": "journal",
+    "ccf": "A",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": 1,
+    "cas_year": 2025,
+    "cas_top": true,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 9.2,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+      "Verified in the official 2026 PDF, Computer networks section."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "1536-1233",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 8.8,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 10
+  },
+  "IEEE International Workshop on Signal Processing and Artificial Intelligence in Wireless Communications": {
+    "kind": "conference",
+    "ccf": "not_listed",
+    "ccf_year": 2026,
+    "ccf_status": "not_listed",
+    "cas": null,
+    "cas_year": null,
+    "cas_top": null,
+    "cas_category": null,
+    "cas_status": "not_applicable",
+    "impact_factor": null,
+    "impact_factor_year": null,
+    "impact_factor_status": "not_applicable",
+    "source_urls": {
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+      "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment. SPAWC is an independently named workshop; no entry was found under SPAWC or its current/former Signal Processing Advances in Wireless Communications title."
+    ],
+    "verified_on": "2026-11-14",
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": null
+  },
+  "Medical Image Computing and Computer Assisted Intervention": {
+    "kind": "conference",
+    "ccf": "B",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": null,
+    "cas_year": null,
+    "cas_top": null,
+    "cas_category": null,
+    "cas_status": "not_applicable",
+    "impact_factor": null,
+    "impact_factor_year": null,
+    "impact_factor_status": "not_applicable",
+    "source_urls": {
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+      "Verified in the official 2026 PDF, Interdisciplinary/comprehensive/emerging section. Matched to MICCAI, listed as International Conference on Medical Image Computing and Computer-Assisted Intervention. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+    ],
+    "verified_on": "2026-11-14",
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 71
+  },
+  "IEEE Transactions on Vehicular Technology": {
+    "kind": "journal",
+    "ccf": "not_listed",
+    "ccf_year": 2026,
+    "ccf_status": "not_listed",
+    "cas": 2,
+    "cas_year": 2025,
+    "cas_top": false,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 7.1,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+      "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "0018-9545",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 7.5,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": null
+  },
+  "Journal of Software (in Chinese)": {
+    "kind": "journal",
+    "ccf": "T1",
+    "ccf_year": 2025,
+    "ccf_status": "verified_official",
+    "cas": null,
+    "cas_year": 2025,
+    "cas_top": null,
+    "cas_category": null,
+    "cas_status": "not_listed_in_verified_table",
+    "impact_factor": null,
+    "impact_factor_year": null,
+    "impact_factor_status": "unverified",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm"
+      ],
+      "journal_identity": [
+        "https://www.jos.org.cn/jos/site/menu/20071206155225001?id=20071206155225001"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/ccftjgjxskwml/"
+      ]
+    },
+    "notes": [
+      "No matching title, Chinese title, ISSN 1000-9825, or Ruanjian Xuebao entry found in the verified 2025 CAS table; absence is limited to this source.",
+      "This is 软件学报, ISSN 1000-9825, not Journal of Software: Evolution and Process or other English-language similarly named journals. No Clarivate JIF verified. Domestic CNKI/CSTPCD impact factors are not substituted for JIF.",
+      "软件学报 is item 15 in the T1 list officially released on 2025-04-16. This is a separate directory from the international A/B/C recommendation list; CCF explicitly states that the two lists are not equivalent. Display CCF T1 (2025), never CCF A."
+    ],
+    "verified_on": "2026-11-14",
+    "ccf_scheme": "CCF computing-field high-quality science and technology journals (T1/T2/T3)",
+    "ccf_source_page": null
+  },
+  "IEEE Transactions on Image Processing": {
+    "kind": "journal",
+    "ccf": "A",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": 1,
+    "cas_year": 2025,
+    "cas_top": true,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 13.7,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+      "Verified in the official 2026 PDF, Computer graphics and multimedia section."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "1057-7149",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 15.3,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 44
+  },
+  "Knowledge-Based Systems": {
+    "kind": "journal",
+    "ccf": "C",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": 1,
+    "cas_year": 2025,
+    "cas_top": true,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 7.6,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_institutional_and_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://topj.lib.whu.edu.cn/show.asp?cat=sci&id=4139",
+        "https://www.sciencedirect.com/journal/knowledge-based-systems/about/policies"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "Wuhan University Library explicitly labels 7.6 as the 2024 JIF; Elsevier journal page confirms the 7.6 value. Uniform 2024 JIF is used for comparability.",
+      "Verified in the official 2026 PDF, Artificial intelligence section."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "0950-7051",
+    "impact_factor_release_year": 2025,
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 55
+  },
+  "IEEE International Conference on Communications": {
+    "kind": "conference",
+    "ccf": "C",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": null,
+    "cas_year": null,
+    "cas_top": null,
+    "cas_category": null,
+    "cas_status": "not_applicable",
+    "impact_factor": null,
+    "impact_factor_year": null,
+    "impact_factor_status": "not_applicable",
+    "source_urls": {
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+      "Verified in the official 2026 PDF, Computer networks section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+    ],
+    "verified_on": "2026-11-14",
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 15
+  },
+  "IEEE Transactions on Signal Processing": {
+    "kind": "journal",
+    "ccf": "not_listed",
+    "ccf_year": 2026,
+    "ccf_status": "not_listed",
+    "cas": 2,
+    "cas_year": 2025,
+    "cas_top": true,
+    "cas_category": "Engineering and Technology",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 5.8,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+      "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "1053-587X",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 5.5,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": null
+  },
+  "IEEE Global Communications Conference": {
+    "kind": "conference",
+    "ccf": "C",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": null,
+    "cas_year": null,
+    "cas_top": null,
+    "cas_category": null,
+    "cas_status": "not_applicable",
+    "impact_factor": null,
+    "impact_factor_year": null,
+    "impact_factor_status": "not_applicable",
+    "source_urls": {
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+      "Verified in the official 2026 PDF, Computer networks section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+    ],
+    "verified_on": "2026-11-14",
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 15
+  },
+  "IEEE/CIC International Conference on Communications in China Workshops": {
+    "kind": "conference",
+    "ccf": "not_listed",
+    "ccf_year": 2026,
+    "ccf_status": "not_listed",
+    "cas": null,
+    "cas_year": null,
+    "cas_top": null,
+    "cas_category": null,
+    "cas_status": "not_applicable",
+    "impact_factor": null,
+    "impact_factor_year": null,
+    "impact_factor_status": "not_applicable",
+    "source_urls": {
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+      "Not present by exact title or identifying abbreviation in the complete official 2026 (7th edition) international directory. This records absence from this directory, not a quality assessment. This is ICCC Workshops, not IEEE ICC or ICCCN. Do not inherit any main-conference grade; companion workshops are explicitly outside the directory scope."
+    ],
+    "verified_on": "2026-11-14",
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": null
+  },
+  "Expert Systems with Applications": {
+    "kind": "journal",
+    "ccf": "C",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": 1,
+    "cas_year": 2025,
+    "cas_top": true,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 7.5,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_institutional_and_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://topj.lib.whu.edu.cn/show.asp?cat=zk&id=3237",
+        "https://iris.urv.cat/en/ipublic/source/11076",
+        "https://www.sciencedirect.com/journal/expert-systems-with-applications/vol/180/suppl/C"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "Wuhan University Library and Universitat Rovira i Virgili explicitly label 7.5 as the 2024 WoS JIF; Elsevier journal page confirms the 7.5 value. Uniform 2024 JIF is used for comparability.",
+      "Verified in the official 2026 PDF, Artificial intelligence section."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "0957-4174",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 9.4,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://iris.urv.cat/en/ipublic/source/11076",
+      "provenance": "institutional research information system"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 54
+  },
+  "IEEE Transactions on Knowledge and Data Engineering": {
+    "kind": "journal",
+    "ccf": "A",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": 1,
+    "cas_year": 2025,
+    "cas_top": true,
+    "cas_category": "Computer Science",
+    "cas_status": "verified_institutional_reproduction",
+    "impact_factor": 10.4,
+    "impact_factor_year": 2024,
+    "impact_factor_status": "verified_publisher",
+    "source_urls": {
+      "cas": [
+        "https://cce.ncepu.edu.cn/xzzx/yjsjx1/7632005045644e61a0d12c7bbeff6204.htm",
+        "https://cce.ncepu.edu.cn/docs/2026-09/0e77800bf2744596a26e43c83acceed0.xlsx"
+      ],
+      "impact_factor": [
+        "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf"
+      ],
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "2025 CAS upgraded edition, broad subject category (大类). Top flag is taken directly from the table; a Division 2 journal can be Top.",
+      "2024 Journal Impact Factor, released in June 2025, from the IEEE title list dated January 2026. The PDF date is not the metric year.",
+      "Verified in the official 2026 PDF, Databases/data mining/content retrieval section."
+    ],
+    "verified_on": "2026-11-14",
+    "issn": "1041-4347",
+    "impact_factor_release_year": 2025,
+    "newer_verified_impact_factor": {
+      "value": 11.6,
+      "year": 2025,
+      "release_year": 2026,
+      "source_url": "https://open.ieee.org/wp-content/uploads/IEEE-Title-List-September-2026-CAPES.pdf"
+    },
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 32
+  },
+  "IEEE International Conference on Acoustics, Speech and Signal Processing": {
+    "kind": "conference",
+    "ccf": "B",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": null,
+    "cas_year": null,
+    "cas_top": null,
+    "cas_category": null,
+    "cas_status": "not_applicable",
+    "impact_factor": null,
+    "impact_factor_year": null,
+    "impact_factor_status": "not_applicable",
+    "source_urls": {
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+      "Verified in the official 2026 PDF, Computer graphics and multimedia section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+    ],
+    "verified_on": "2026-11-14",
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 48
+  },
+  "AAAI Conference on Artificial Intelligence": {
+    "kind": "conference",
+    "ccf": "A",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": null,
+    "cas_year": null,
+    "cas_top": null,
+    "cas_category": null,
+    "cas_status": "not_applicable",
+    "impact_factor": null,
+    "impact_factor_year": null,
+    "impact_factor_status": "not_applicable",
+    "source_urls": {
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+      "Verified in the official 2026 PDF, Artificial intelligence section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+    ],
+    "verified_on": "2026-11-14",
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 57
+  },
+  "IEEE Wireless Communications and Networking Conference": {
+    "kind": "conference",
+    "ccf": "C",
+    "ccf_year": 2026,
+    "ccf_status": "verified_official",
+    "cas": null,
+    "cas_year": null,
+    "cas_top": null,
+    "cas_category": null,
+    "cas_status": "not_applicable",
+    "impact_factor": null,
+    "impact_factor_year": null,
+    "impact_factor_status": "not_applicable",
+    "source_urls": {
+      "ccf": [
+        "https://www.ccf.org.cn/Academic_Evaluation/By_category/2026-03-31/870181.shtml",
+        "https://www.ccf.org.cn/ccf/contentcore/resource/download?ID=112CF3BF7E1140ACEB271ADAED12A67ADFABB8FF099E40C2759502A85C8A281F"
+      ]
+    },
+    "notes": [
+      "CAS journal divisions and Clarivate Journal Impact Factors apply to journals, not conference proceedings.",
+      "Verified in the official 2026 PDF, Computer networks section. Conference rank applies only to Full/Regular papers; companion workshops and other forms are excluded by the official directory scope."
+    ],
+    "verified_on": "2026-11-14",
+    "ccf_scheme": "CCF international recommended conferences and journals, 7th edition",
+    "ccf_source_page": 15
+  }
+}
