@@ -1821,6 +1821,205 @@
       ]
     },
     {
+      "id": "haiyang",
+      "name": "Haiyang",
+      "country": "China",
+      "countryCode": "CHN",
+      "lat": 36.77916667,
+      "lon": 121.16805556,
+      "aliases": [
+        "海阳",
+        "海阳市"
+      ],
+      "photos": [
+        {
+          "src": "assets/travel/haiyang/01.jpg",
+          "alt": "Haiyang waterfront beside the Sand Sculpture Art Park, Haiyang, Shandong, China",
+          "caption": "Haiyang waterfront beside the Sand Sculpture Art Park",
+          "author": "Ngguls",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20230530_Haiyang_International_Sand_Sculpture_Art_Park_01.jpg",
+          "title": "File:20230530 Haiyang International Sand Sculpture Art Park 01.jpg"
+        },
+        {
+          "src": "assets/travel/haiyang/02.jpg",
+          "alt": "Courtyard and mountains at Congma Temple, Haiyang, Shandong, China",
+          "caption": "Courtyard and mountains at Congma Temple",
+          "author": "孙国梁拍照",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Congma_Temple_in_Haiyang,_Yantai_-_panoramio_(1).jpg",
+          "title": "File:Congma Temple in Haiyang, Yantai - panoramio (1).jpg"
+        },
+        {
+          "src": "assets/travel/haiyang/03.jpg",
+          "alt": "A hall at Congma Temple, Haiyang, Shandong, China",
+          "caption": "A hall at Congma Temple",
+          "author": "孙国梁拍照",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Congma_Temple_in_Haiyang,_Yantai_-_panoramio_(2).jpg",
+          "title": "File:Congma Temple in Haiyang, Yantai - panoramio (2).jpg"
+        },
+        {
+          "src": "assets/travel/haiyang/04.jpg",
+          "alt": "Temple architecture in Haiyang, Shandong, China",
+          "caption": "Temple architecture in Haiyang",
+          "author": "孙国梁拍照",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haiyang,_Yantai,_Shandong,_China_-_panoramio.jpg",
+          "title": "File:Haiyang, Yantai, Shandong, China - panoramio.jpg"
+        },
+        {
+          "src": "assets/travel/haiyang/05.jpg",
+          "alt": "Haiyang beach, Haiyang, Shandong, China",
+          "caption": "Haiyang beach",
+          "author": "孙国梁拍照",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haiyang,_Yantai,_Shandong,_China_-_panoramio_(3).jpg",
+          "title": "File:Haiyang, Yantai, Shandong, China - panoramio (3).jpg"
+        },
+        {
+          "src": "assets/travel/haiyang/06.jpg",
+          "alt": "Haiyang waterfront at night, Haiyang, Shandong, China",
+          "caption": "Haiyang waterfront at night",
+          "author": "Ngguls",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20230530_Haiyang_International_Sand_Sculpture_Art_Park_02.jpg",
+          "title": "File:20230530 Haiyang International Sand Sculpture Art Park 02.jpg"
+        },
+        {
+          "src": "assets/travel/haiyang/07.jpg",
+          "alt": "Night view of the Haiyang waterfront, Shandong, China",
+          "caption": "Night view of the Haiyang waterfront",
+          "author": "Ngguls",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20230530_Haiyang_International_Sand_Sculpture_Art_Park_03.jpg",
+          "title": "File:20230530 Haiyang International Sand Sculpture Art Park 03.jpg"
+        }
+      ]
+    },
+    {
+      "id": "hangzhou",
+      "name": "Hangzhou",
+      "country": "China",
+      "countryCode": "CHN",
+      "lat": 30.3,
+      "lon": 120.15,
+      "aliases": [
+        "杭州",
+        "杭州市",
+        "Hangchow"
+      ],
+      "photos": [
+        {
+          "alt": "Broken Bridge across West Lake, Hangzhou, China",
+          "caption": "Broken Bridge across West Lake",
+          "author": "Shujianyang",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:West_Lake_2025.06_02.jpg",
+          "title": "File:West Lake 2025.06 02.jpg",
+          "src": "assets/travel/hangzhou/01.jpg"
+        },
+        {
+          "alt": "Sunset over West Lake and Leifeng Pagoda, Hangzhou, China",
+          "caption": "Sunset over West Lake and Leifeng Pagoda",
+          "author": "Yinweichen",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_with_Leifeng_Pagoda_on_West_Lake.jpg",
+          "title": "File:Sunset with Leifeng Pagoda on West Lake.jpg",
+          "src": "assets/travel/hangzhou/02.jpg"
+        },
+        {
+          "alt": "Main hall of Lingyin Temple, Hangzhou, China",
+          "caption": "Main hall of Lingyin Temple",
+          "author": "Tyg728",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hangzhou_Lingyin-Temple_20161003.jpg",
+          "title": "File:Hangzhou Lingyin-Temple 20161003.jpg",
+          "src": "assets/travel/hangzhou/03.jpg"
+        },
+        {
+          "alt": "Waterways of Xixi National Wetland Park, Hangzhou, China",
+          "caption": "Waterways of Xixi National Wetland Park",
+          "author": "Yoshi Canopus",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Xixi_Wetland_Park,_Hangzhou,_China.jpg",
+          "title": "File:Xixi Wetland Park, Hangzhou, China.jpg",
+          "src": "assets/travel/hangzhou/04.jpg"
+        },
+        {
+          "alt": "Gongchen Bridge over the Grand Canal, Hangzhou, China",
+          "caption": "Gongchen Bridge over the Grand Canal",
+          "author": "猫猫的日记本",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gongchen_Bridge_01_2013-07.JPG",
+          "title": "File:Gongchen Bridge 01 2013-07.JPG",
+          "src": "assets/travel/hangzhou/05.jpg"
+        },
+        {
+          "alt": "Traditional buildings on Hefang Street, Hangzhou, China",
+          "caption": "Traditional buildings on Hefang Street",
+          "author": "HoweyYuan",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hefang_Street_20240729.jpg",
+          "title": "File:Hefang Street 20240729.jpg",
+          "src": "assets/travel/hangzhou/06.jpg"
+        },
+        {
+          "alt": "Longjing tea fields in the hills of Hangzhou, Hangzhou, China",
+          "caption": "Longjing tea fields in the hills of Hangzhou",
+          "author": "Wishva de Silva",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tea_plantations_in_Longjing,_Hangzhou.jpg",
+          "title": "File:Tea plantations in Longjing, Hangzhou.jpg",
+          "src": "assets/travel/hangzhou/07.jpg"
+        },
+        {
+          "alt": "Liuhe Pagoda and its entrance gate, Hangzhou, China",
+          "caption": "Liuhe Pagoda and its entrance gate",
+          "author": "Morio",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liuhe_Pagoda_2016_January.jpg",
+          "title": "File:Liuhe Pagoda 2016 January.jpg",
+          "src": "assets/travel/hangzhou/08.jpg"
+        },
+        {
+          "alt": "A shaded stream in the Nine Creeks scenic area, Hangzhou, China",
+          "caption": "A shaded stream in the Nine Creeks scenic area",
+          "author": "Tyg728",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jiuxi_20161004.jpg",
+          "title": "File:Jiuxi 20161004.jpg",
+          "src": "assets/travel/hangzhou/09.jpg"
+        },
+        {
+          "alt": "Three Pools Mirroring the Moon on West Lake, Hangzhou, China",
+          "caption": "Three Pools Mirroring the Moon on West Lake",
+          "author": "Hangzhou West Lake, Ten Thousand Strangers",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Three_Pools_Mirroring_the_Moon.jpg",
+          "title": "File:Three Pools Mirroring the Moon.jpg",
+          "src": "assets/travel/hangzhou/10.jpg"
+        }
+      ]
+    },
+    {
       "id": "harbin",
       "name": "Harbin",
       "country": "China",
@@ -2840,6 +3039,120 @@
       ],
       "aliases": [
         "京都"
+      ]
+    },
+    {
+      "id": "laiyang",
+      "name": "Laiyang",
+      "country": "China",
+      "countryCode": "CHN",
+      "lat": 36.97583,
+      "lon": 120.71361,
+      "aliases": [
+        "莱阳"
+      ],
+      "galleryLabel": "Views of Laiyang · Wikimedia Commons",
+      "photos": [
+        {
+          "src": "assets/travel/laiyang/01.jpg",
+          "alt": "Laiyang Radio and Television Center in Laiyang, Shandong, China",
+          "caption": "Laiyang Radio and Television Center",
+          "author": "Sprt98",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lai_Yang_Television_Center.jpg",
+          "title": "File:Lai Yang Television Center.jpg"
+        },
+        {
+          "src": "assets/travel/laiyang/02.jpg",
+          "alt": "Laiyang Railway Station in Laiyang, Shandong, China",
+          "caption": "Laiyang Railway Station",
+          "author": "Sprt98",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laiyang_Railway_Station.jpg",
+          "title": "File:Laiyang Railway Station.jpg"
+        },
+        {
+          "src": "assets/travel/laiyang/03.jpg",
+          "alt": "Longmen East Road in Laiyang, Shandong, China",
+          "caption": "Longmen East Road",
+          "author": "祝鱼贵",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260707_Longmen_East_Road_Laiyang_03.jpg",
+          "title": "File:20260707 Longmen East Road Laiyang 03.jpg"
+        },
+        {
+          "src": "assets/travel/laiyang/04.jpg",
+          "alt": "G517 in Tangezhuang Town in Laiyang, Shandong, China",
+          "caption": "G517 in Tangezhuang Town",
+          "author": "祝鱼贵",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260706_G517_Tangezhuang_Town_Laiyang_1.jpg",
+          "title": "File:20260706 G517 Tangezhuang Town Laiyang 1.jpg"
+        },
+        {
+          "src": "assets/travel/laiyang/05.jpg",
+          "alt": "Former Laiyang Supply and Marketing Cooperative in Laiyang, Shandong, China",
+          "caption": "Former Laiyang Supply and Marketing Cooperative",
+          "author": "祝鱼贵",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260706_Wulong_North_Road_former_Laiyang_Supply_and_Marketing_Cooperative.jpg",
+          "title": "File:20260706 Wulong North Road former Laiyang Supply and Marketing Cooperative.jpg"
+        },
+        {
+          "src": "assets/travel/laiyang/06.jpg",
+          "alt": "Shuchi Bus headquarters in Laiyang, Shandong, China",
+          "caption": "Shuchi Bus headquarters",
+          "author": "Sprt98",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%83%9F%E5%8F%B0%E8%88%92%E9%A9%B0%E5%AE%A2%E8%BD%A6%E6%80%BB%E9%83%A8.jpg",
+          "title": "File:烟台舒驰客车总部.jpg"
+        },
+        {
+          "src": "assets/travel/laiyang/07.jpg",
+          "alt": "Wenchang Primary School campus in Laiyang, Shandong, China",
+          "caption": "Wenchang Primary School campus",
+          "author": "祝鱼贵",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260709_Laiyang_Wenchang_Primary_School.jpg",
+          "title": "File:20260709 Laiyang Wenchang Primary School.jpg"
+        },
+        {
+          "src": "assets/travel/laiyang/08.jpg",
+          "alt": "Cityscape along Longmen East Road in Laiyang, Shandong, China",
+          "caption": "Cityscape along Longmen East Road",
+          "author": "祝鱼贵",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260707_Longmen_East_Road_Laiyang_01.jpg",
+          "title": "File:20260707 Longmen East Road Laiyang 01.jpg"
+        },
+        {
+          "src": "assets/travel/laiyang/09.jpg",
+          "alt": "Roadside view in Tangezhuang Town in Laiyang, Shandong, China",
+          "caption": "Roadside view in Tangezhuang Town",
+          "author": "祝鱼贵",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260706_G517_Tangezhuang_Town_Laiyang_4.jpg",
+          "title": "File:20260706 G517 Tangezhuang Town Laiyang 4.jpg"
+        },
+        {
+          "src": "assets/travel/laiyang/10.jpg",
+          "alt": "Wenchang Middle School campus in Laiyang, Shandong, China",
+          "caption": "Wenchang Middle School campus",
+          "author": "祝鱼贵",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260709_Laiyang_Wenchang_Middle_School_06.jpg",
+          "title": "File:20260709 Laiyang Wenchang Middle School 06.jpg"
+        }
       ]
     },
     {
